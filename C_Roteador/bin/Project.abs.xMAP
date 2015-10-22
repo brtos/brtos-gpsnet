@@ -1,0 +1,847 @@
+
+
+
+# .abs_vector_0
+  00000000 00000004 .abs    vector_0	(exceptions.c)
+
+# .abs_vector_1
+  00000004 00000004 .abs    vector_1	(exceptions.c)
+
+# .abs_vector_2
+  00000008 00000004 .abs    vector_2	(exceptions.c)
+
+# .abs_vector_3
+  0000000C 00000004 .abs    vector_3	(exceptions.c)
+
+# .abs_vector_4
+  00000010 00000004 .abs    vector_4	(exceptions.c)
+
+# .abs_vector_5
+  00000014 00000004 .abs    vector_5	(exceptions.c)
+
+# .abs_vector_6
+  00000018 00000004 .abs    vector_6	(exceptions.c)
+
+# .abs_vector_7
+  0000001C 00000004 .abs    vector_7	(exceptions.c)
+
+# .abs_vector_8
+  00000020 00000004 .abs    vector_8	(exceptions.c)
+
+# .abs_vector_9
+  00000024 00000004 .abs    vector_9	(exceptions.c)
+
+# .abs_vector_10
+  00000028 00000004 .abs    vector_10	(exceptions.c)
+
+# .abs_vector_11
+  0000002C 00000004 .abs    vector_11	(exceptions.c)
+
+# .abs_vector_12
+  00000030 00000004 .abs    vector_12	(exceptions.c)
+
+# .abs_vector_13
+  00000034 00000004 .abs    vector_13	(exceptions.c)
+
+# .abs_vector_14
+  00000038 00000004 .abs    vector_14	(exceptions.c)
+
+# .abs_vector_15
+  0000003C 00000004 .abs    vector_15	(exceptions.c)
+
+# .abs_vector_16
+  00000040 00000004 .abs    vector_16	(exceptions.c)
+
+# .abs_vector_17
+  00000044 00000004 .abs    vector_17	(exceptions.c)
+
+# .abs_vector_18
+  00000048 00000004 .abs    vector_18	(exceptions.c)
+
+# .abs_vector_19
+  0000004C 00000004 .abs    vector_19	(exceptions.c)
+
+# .abs_vector_20
+  00000050 00000004 .abs    vector_20	(exceptions.c)
+
+# .abs_vector_21
+  00000054 00000004 .abs    vector_21	(exceptions.c)
+
+# .abs_vector_22
+  00000058 00000004 .abs    vector_22	(exceptions.c)
+
+# .abs_vector_23
+  0000005C 00000004 .abs    vector_23	(exceptions.c)
+
+# .abs_vector_24
+  00000060 00000004 .abs    vector_24	(exceptions.c)
+
+# .abs_vector_25
+  00000064 00000004 .abs    vector_25	(exceptions.c)
+
+# .abs_vector_26
+  00000068 00000004 .abs    vector_26	(exceptions.c)
+
+# .abs_vector_27
+  0000006C 00000004 .abs    vector_27	(exceptions.c)
+
+# .abs_vector_28
+  00000070 00000004 .abs    vector_28	(exceptions.c)
+
+# .abs_vector_29
+  00000074 00000004 .abs    vector_29	(exceptions.c)
+
+# .abs_vector_30
+  00000078 00000004 .abs    vector_30	(exceptions.c)
+
+# .abs_vector_31
+  0000007C 00000004 .abs    vector_31	(exceptions.c)
+
+# .abs_vector_32
+  00000080 00000004 .abs    vector_32	(exceptions.c)
+
+# .abs_vector_33
+  00000084 00000004 .abs    vector_33	(exceptions.c)
+
+# .abs_vector_34
+  00000088 00000004 .abs    vector_34	(exceptions.c)
+
+# .abs_vector_35
+  0000008C 00000004 .abs    vector_35	(exceptions.c)
+
+# .abs_vector_36
+  00000090 00000004 .abs    vector_36	(exceptions.c)
+
+# .abs_vector_37
+  00000094 00000004 .abs    vector_37	(exceptions.c)
+
+# .abs_vector_38
+  00000098 00000004 .abs    vector_38	(exceptions.c)
+
+# .abs_vector_39
+  0000009C 00000004 .abs    vector_39	(exceptions.c)
+
+# .abs_vector_40
+  000000A0 00000004 .abs    vector_40	(exceptions.c)
+
+# .abs_vector_41
+  000000A4 00000004 .abs    vector_41	(exceptions.c)
+
+# .abs_vector_42
+  000000A8 00000004 .abs    vector_42	(exceptions.c)
+
+# .abs_vector_43
+  000000AC 00000004 .abs    vector_43	(exceptions.c)
+
+# .abs_vector_44
+  000000B0 00000004 .abs    vector_44	(exceptions.c)
+
+# .abs_vector_45
+  000000B4 00000004 .abs    vector_45	(exceptions.c)
+
+# .abs_vector_46
+  000000B8 00000004 .abs    vector_46	(exceptions.c)
+
+# .abs_vector_47
+  000000BC 00000004 .abs    vector_47	(exceptions.c)
+
+# .abs_vector_48
+  000000C0 00000004 .abs    vector_48	(exceptions.c)
+
+# .abs_vector_49
+  000000C4 00000004 .abs    vector_49	(exceptions.c)
+
+# .abs_vector_50
+  000000C8 00000004 .abs    vector_50	(exceptions.c)
+
+# .abs_vector_51
+  000000CC 00000004 .abs    vector_51	(exceptions.c)
+
+# .abs_vector_52
+  000000D0 00000004 .abs    vector_52	(exceptions.c)
+
+# .abs_vector_53
+  000000D4 00000004 .abs    vector_53	(exceptions.c)
+
+# .abs_vector_54
+  000000D8 00000004 .abs    vector_54	(exceptions.c)
+
+# .abs_vector_55
+  000000DC 00000004 .abs    vector_55	(exceptions.c)
+
+# .abs_vector_56
+  000000E0 00000004 .abs    vector_56	(exceptions.c)
+
+# .abs_vector_57
+  000000E4 00000004 .abs    vector_57	(exceptions.c)
+
+# .abs_vector_58
+  000000E8 00000004 .abs    vector_58	(exceptions.c)
+
+# .abs_vector_59
+  000000EC 00000004 .abs    vector_59	(exceptions.c)
+
+# .abs_vector_60
+  000000F0 00000004 .abs    vector_60	(exceptions.c)
+
+# .abs_vector_61
+  000000F4 00000004 .abs    vector_61	(exceptions.c)
+
+# .abs_vector_62
+  000000F8 00000004 .abs    vector_62	(exceptions.c)
+
+# .abs_vector_63
+  000000FC 00000004 .abs    vector_63	(exceptions.c)
+
+# .abs_vector_64
+  00000100 00000004 .abs    vector_64	(exceptions.c)
+
+# .abs_vector_65
+  00000104 00000004 .abs    vector_65	(exceptions.c)
+
+# .abs_vector_66
+  00000108 00000004 .abs    vector_66	(exceptions.c)
+
+# .abs_vector_67
+  0000010C 00000004 .abs    vector_67	(exceptions.c)
+
+# .abs_vector_68
+  00000110 00000004 .abs    vector_68	(exceptions.c)
+
+# .abs_vector_69
+  00000114 00000004 .abs    vector_69	(exceptions.c)
+
+# .abs_vector_70
+  00000118 00000004 .abs    vector_70	(exceptions.c)
+
+# .abs_vector_71
+  0000011C 00000004 .abs    vector_71	(exceptions.c)
+
+# .abs_vector_72
+  00000120 00000004 .abs    vector_72	(exceptions.c)
+
+# .abs_vector_73
+  00000124 00000004 .abs    vector_73	(exceptions.c)
+
+# .abs_vector_74
+  00000128 00000004 .abs    vector_74	(exceptions.c)
+
+# .abs_vector_75
+  0000012C 00000004 .abs    vector_75	(exceptions.c)
+
+# .abs_vector_76
+  00000130 00000004 .abs    vector_76	(exceptions.c)
+
+# .abs_vector_77
+  00000134 00000004 .abs    vector_77	(exceptions.c)
+
+# .abs_vector_78
+  00000138 00000004 .abs    vector_78	(exceptions.c)
+
+# .abs_vector_79
+  0000013C 00000004 .abs    vector_79	(exceptions.c)
+
+# .abs_vector_80
+  00000140 00000004 .abs    vector_80	(exceptions.c)
+
+# .abs_vector_81
+  00000144 00000004 .abs    vector_81	(exceptions.c)
+
+# .abs_vector_82
+  00000148 00000004 .abs    vector_82	(exceptions.c)
+
+# .abs_vector_83
+  0000014C 00000004 .abs    vector_83	(exceptions.c)
+
+# .abs_vector_84
+  00000150 00000004 .abs    vector_84	(exceptions.c)
+
+# .abs_vector_85
+  00000154 00000004 .abs    vector_85	(exceptions.c)
+
+# .abs_vector_86
+  00000158 00000004 .abs    vector_86	(exceptions.c)
+
+# .abs_vector_87
+  0000015C 00000004 .abs    vector_87	(exceptions.c)
+
+# .abs_vector_88
+  00000160 00000004 .abs    vector_88	(exceptions.c)
+
+# .abs_vector_89
+  00000164 00000004 .abs    vector_89	(exceptions.c)
+
+# .abs_vector_90
+  00000168 00000004 .abs    vector_90	(exceptions.c)
+
+# .abs_vector_91
+  0000016C 00000004 .abs    vector_91	(exceptions.c)
+
+# .abs_vector_92
+  00000170 00000004 .abs    vector_92	(exceptions.c)
+
+# .abs_vector_93
+  00000174 00000004 .abs    vector_93	(exceptions.c)
+
+# .abs_vector_94
+  00000178 00000004 .abs    vector_94	(exceptions.c)
+
+# .abs_vector_95
+  0000017C 00000004 .abs    vector_95	(exceptions.c)
+
+# .abs_vector_96
+  00000180 00000004 .abs    vector_96	(exceptions.c)
+
+# .abs_vector_97
+  00000184 00000004 .abs    vector_97	(exceptions.c)
+
+# .abs_vector_98
+  00000188 00000004 .abs    vector_98	(exceptions.c)
+
+# .abs_vector_99
+  0000018C 00000004 .abs    vector_99	(exceptions.c)
+
+# .abs_vector_100
+  00000190 00000004 .abs    vector_100	(exceptions.c)
+
+# .abs_vector_101
+  00000194 00000004 .abs    vector_101	(exceptions.c)
+
+# .abs_vector_102
+  00000198 00000004 .abs    vector_102	(exceptions.c)
+
+# .abs_NVPROT_INIT
+  0000040D 00000001 .abs    NVPROT_INIT	(MCUinit.c)
+
+# .abs_mac64Address
+  00000FF0 00000008 .abs    mac64Address	(MRF24J40.c)
+
+# .abs_Latitude
+  00001000 00000004 .abs    Latitude	(network.c)
+
+# .abs_Longitude
+  00001004 00000004 .abs    Longitude	(network.c)
+
+# .abs_macAddress
+  00001008 00000004 .abs    macAddress	(mac.c)
+
+# .abs_macPANIdentificator
+  0000100C 00000004 .abs    macPANIdentificator	(mac.c)
+
+# .abs_RAM_vector
+  00002000 0000019C .abs    RAM_vector	(MCUinit.c)
+
+# .abs__UserEntry
+  000021D0 00000008 .abs    UserEntry	(MCUinit.c)
+
+# .abs_CurrentFactor
+  000021D8 00000004 .abs    CurrentFactor	(smartmeter.c)
+
+# .abs_Energy_Meter_Reg
+  0001FC00 00000004 .abs    Energy_Meter_Reg	(smartmeter.c)
+#>00000000          ___heap_size (linker command file)
+#>00000070          ___stack_size (linker command file)
+#>00800000          ___RAM_ADDRESS (linker command file)
+#>00002000          ___RAM_SIZE (linker command file)
+#>00000000          ___FLASH_ADDRESS (linker command file)
+#>00020000          ___FLASH_SIZE (linker command file)
+
+# .userram
+
+# .bootcode
+
+# .bootcodes
+#>00000410          ___Boot_START (linker command file)
+  00000410 00000098 .text   _Entry	(usr_entry.c)
+  000004A8 00000034 .text   Bootloader_polydiv	(MCF51_Bootloader.c)
+  000004DC 00000038 .text   Bootloader_CRC	(MCF51_Bootloader.c)
+  00000514 0000002C .text   Bootloader_Flash_Cmd	(MCF51_Bootloader.c)
+  00000540 00000048 .text   Bootloader_Flash_Erase	(MCF51_Bootloader.c)
+  00000588 00000084 .text   Bootloader_Flash_Prog	(MCF51_Bootloader.c)
+  0000060C 00000008 .text   Bootloader_Flash_Read	(MCF51_Bootloader.c)
+  00000614 00000010 .text   Bootloader_Flash_Clock_Init	(MCF51_Bootloader.c)
+  00000624 0000003C .text   Bootloader_Flash_EraseAll	(MCF51_Bootloader.c)
+  00000660 00000190 .text   Bootloader_Main	(MCF51_Bootloader.c)
+#>000007F0          ___Boot_END (linker command file)
+
+# .code
+
+# .text
+  00002200 00000004 .text   __initialize_system	(startcf.c)
+  00002204 0000001C .text   __copy_rom_section	(startcf.c)
+  00002220 00000038 .text   __copy_rom_sections_to_ram	(startcf.c)
+  00002258 00000004 .text   _ExitProcess	(startcf.c)
+  0000225C 00000074 .text   clear_mem	(startcf.c)
+  000022D0 000000A0 .text   _startup	(startcf.c)
+  00002370 00000088 .text   __initialize_hardware	(MCUinit.c)
+  000023F8 00000060 .text   MCU_init	(MCUinit.c)
+  00002458 00000014 .text   isrVlvd	(MCUinit.c)
+  0000246C 00000014 .text   dummy_ISR	(MCUinit.c)
+  00002480 00000028 .text   ISR_vtable_reallocation	(MCUinit.c)
+  000024A8 00000014 .text   derivative_interrupt	(exceptions.c)
+  000024BC 000001CC .text   mcf_exception_handler	(exceptions.c)
+  00002688 00000024 .text   asm_exception_handler	(exceptions.c)
+  000026AC 00000108 .text   main	(main.c)
+  000027B4 00000034 .text   System_Time	(tasks.c)
+  000027E8 0000031C .text   GPSNET_SensorsApp	(tasks.c)
+  00002B04 00000068 .text   GPSNET_App	(tasks.c)
+  00002B6C 000003E8 .text   RelayControl_Task	(tasks.c)
+  00002F54 0000005C .text   Relay_turn_on_voltage	(tasks.c)
+  00002FB0 00000110 .text   Relay_TurnOn	(tasks.c)
+  000030C0 00000018 .text   Set_LampStateReg	(app.c)
+  000030D8 00000008 .text   Get_LampStateReg	(app.c)
+  000030E0 00000364 .text   Decode_General_Profile	(app.c)
+  00003444 00000018 .text   Decode_Lighting_Profile	(app.c)
+  0000345C 00000080 .text   Process_Debug_Packet	(app.c)
+  000034DC 0000024C .text   SniferRep	(app.c)
+  00003728 00000368 .text   NetMultiMeasureSE	(app.c)
+  00003A90 0000008C .text   NetGeneralInfo	(app.c)
+  00003B1C 000000A0 .text   NetLightingProfile	(app.c)
+  00003BBC 00000078 .text   NetDebugPacket	(app.c)
+  00003C34 000000C0 .text   GPSNET_TX_ToBaseSation	(app.c)
+  00003CF4 00000008 .text   ReportFailure_Get	(app.c)
+  00003CFC 00000008 .text   ReportFailure_Set	(app.c)
+  00003D04 00000118 .text   WBootloader_Handler_Timeout	(Bootloader_wireless.c)
+  00003E1C 000001E4 .text   WBootloader_Handler	(Bootloader_wireless.c)
+  00004000 00000090 .text   NetSimpledata	(Bootloader_wireless.c)
+  00004090 00000250 .text   Decode_Data_Profile	(Bootloader_wireless.c)
+  000042E0 00000040 .text   WBootloader_Wireless_Flash_EraseAll	(Bootloader_wireless.c)
+  00004320 00000010 .text   WBootloader_Flash_Init	(Bootloader_wireless.c)
+  00004330 00000034 .text   WBootloader_polydiv	(Bootloader_wireless.c)
+  00004364 00000038 .text   WBootloader_crc	(Bootloader_wireless.c)
+  0000439C 00000038 .text   SPI_Init	(SPI.c)
+  000043D4 00000038 .text   SPI_SendChar	(SPI.c)
+  0000440C 00000010 .text   SPI_Get	(SPI.c)
+  0000441C 00000028 .text   Radio_Count_states	(MRF24J40.c)
+  00004444 00000040 .text   Radio_port_Init	(MRF24J40.c)
+  00004484 00000304 .text   MRF24J40Init	(MRF24J40.c)
+  00004788 00000228 .text   MRF24J40Reset	(MRF24J40.c)
+  000049B0 00000050 .text   SetChannel	(MRF24J40.c)
+  00004A00 00000008 .text   GetChannel	(MRF24J40.c)
+  00004A08 0000001C .text   SetRxChannel	(MRF24J40.c)
+  00004A24 00000018 .text   GetAllowedChannels	(MRF24J40.c)
+  00004A3C 0000004C .text   SetTxPower	(MRF24J40.c)
+  00004A88 00000008 .text   GetTxPower	(MRF24J40.c)
+  00004A90 00000074 .text   PHYSetLongRAMAddr	(MRF24J40.c)
+  00004B04 0000004C .text   PHYSetShortRAMAddr	(MRF24J40.c)
+  00004B50 00000048 .text   PHYGetShortRAMAddr	(MRF24J40.c)
+  00004B98 00000068 .text   PHYGetLongRAMAddr	(MRF24J40.c)
+  00004C00 00000048 .text   PHYSetDeviceAddress	(MRF24J40.c)
+  00004C48 00000004 .text   PHYSetAutoACK	(MRF24J40.c)
+  00004C4C 00000118 .text   Radio_Interrupt	(MRF24J40.c)
+  00004D64 00000068 .text   diferenca_ang_taxicab	(gpsr.c)
+  00004DCC 00000178 .text   ang_taxicab	(gpsr.c)
+  00004F44 0000003C .text   ReverseByte	(mac.c)
+  00004F80 00000044 .text   MAC_BeaconVerify	(mac.c)
+  00004FC4 00000310 .text   MAC_Command	(mac.c)
+  000052D4 00000118 .text   MAC_Beacon	(mac.c)
+  000053EC 0000014C .text   MAC_Response	(mac.c)
+  00005538 00000044 .text   RadioRand	(mac.c)
+  0000557C 0000042C .text   GPSNET_Associate	(mac.c)
+  000059A8 00000034 .text   CRC_Update	(mac.c)
+  000059DC 00000038 .text   CRC_Get	(mac.c)
+  00005A14 0000000C .text   acquireRadio	(network.c)
+  00005A20 0000000C .text   releaseRadio	(network.c)
+  00005A2C 00000004 .text   init_radio_resource	(network.c)
+  00005A30 000002E8 .text   NeighborPing	(network.c)
+  00005D18 00000188 .text   GPSAddressMessageToMAC	(network.c)
+  00005EA0 00000140 .text   VerifyNewAddress	(network.c)
+  00005FE0 00000084 .text   VerifyPacketReplicated	(network.c)
+  00006064 000001C0 .text   VerifyNeighbourhood	(network.c)
+  00006224 00000010 .text   IncDepthWatchdog	(network.c)
+  00006234 00000008 .text   GetDepthWatchdog	(network.c)
+  0000623C 00000008 .text   ClearDepthWatchdog	(network.c)
+  00006244 00000640 .text   UpdateBaseStation	(network.c)
+  00006884 000002B0 .text   HandleNewNeighborPing	(network.c)
+  00006B34 00000450 .text   NWK_Command	(network.c)
+  00006F84 00000334 .text   HandleRoutePacket	(network.c)
+  000072B8 00000464 .text   DownRoute	(network.c)
+  0000771C 00000164 .text   UpBroadcastRoute	(network.c)
+  00007880 000001DC .text   OneHopRoute	(network.c)
+  00007A5C 0000090C .text   UpRoute	(network.c)
+  00008368 00000018 .text   TickTimerSetup	(HAL.c)
+  00008380 0000010C .text   TickTimer	(HAL.c)
+  0000848C 000000E4 .text   SwitchContext	(HAL.c)
+  00008570 0000008C .text   CreateVirtualStack	(HAL.c)
+  000085FC 00000010 .text   OS_CPU_SR_Save	(HAL.c)
+  0000860C 00000004 .text   OS_CPU_SR_Restore	(HAL.c)
+  00008610 00000020 .text   OSSchedule	(BRTOS.c)
+  00008630 00000008 .text   OSGetCount	(BRTOS.c)
+  00008638 00000020 .text   OSIncCounter	(BRTOS.c)
+  00008658 000000D4 .text   DelayTask	(BRTOS.c)
+  0000872C 000000BC .text   DelayTaskHMSM	(BRTOS.c)
+  000087E8 000000BC .text   OS_TICK_HANDLER	(BRTOS.c)
+  000088A4 00000064 .text   BRTOSStart	(BRTOS.c)
+  00008908 00000048 .text   PreInstallTasks	(BRTOS.c)
+  00008950 00000074 .text   BlockMultipleTask	(BRTOS.c)
+  000089C4 00000080 .text   UnBlockMultipleTask	(BRTOS.c)
+  00008A44 00000008 .text   Idle	(BRTOS.c)
+  00008A4C 000001EC .text   InstallTask	(BRTOS.c)
+  00008C38 000000FC .text   InstallIdle	(BRTOS.c)
+  00008D34 00000014 .text   BRTOS_Init	(BRTOS.c)
+  00008D48 00000080 .text   initEvents	(BRTOS.c)
+  00008DC8 0000000C .text   SAScheduler	(BRTOS.c)
+  00008DD4 0000007C .text   OSUpdateUptime	(OS_RTC.c)
+  00008E50 00000020 .text   OSResetTime	(OS_RTC.c)
+  00008E70 00000134 .text   OSQueueCreate	(queue.c)
+  00008FA4 00000058 .text   OSWQueue	(queue.c)
+  00008FFC 00000050 .text   OSRQueue	(queue.c)
+  0000904C 00000024 .text   OSCleanQueue	(queue.c)
+  00009070 000000A4 .text   OSSemCreate	(semaphore.c)
+  00009114 000001BC .text   OSSemPend	(semaphore.c)
+  000092D0 0000008C .text   OSSemPost	(semaphore.c)
+  0000935C 00000040 .text   EEPROM_Store	(FL_eeprom.c)
+  0000939C 00000038 .text   ClearGPSNET_NodeStat	(gpsnet_core.c)
+  000093D4 00000020 .text   IncGPSNET_NodeStat_apptxed	(gpsnet_core.c)
+  000093F4 000000F0 .text   GPSNET_Init	(gpsnet_core.c)
+  000094E4 000001B8 .text   BRTOS_TimerHook	(gpsnet_core.c)
+  0000969C 00000060 .text   GPSNET_APP	(gpsnet_core.c)
+  000096FC 00000530 .text   GPSNET_NWK	(gpsnet_core.c)
+  00009C2C 00000020 .text   RFBufferClean	(gpsnet_core.c)
+  00009C4C 00000C6C .text   GPSNET_MAC	(gpsnet_core.c)
+  0000A8B8 00000290 .text   GPSNET_RF_Event	(gpsnet_core.c)
+  0000AB48 00000014 .text   GetGPSNET_Statistics	(gpsnet_core.c)
+  0000AB5C 0000007C .text   ADC_Setup	(adc.c)
+  0000ABD8 00000020 .text   ADC_Conversion	(adc.c)
+  0000ABF8 00000070 .text   ADC_Bandgap_Set	(adc.c)
+  0000AC68 0000001C .text   ADC_Bandgap_Get	(adc.c)
+  0000AC84 00000054 .text   GPIO_Setup	(gpio.c)
+  0000ACD8 00000008 .text   Absolute	(math_utils.c)
+  0000ACE0 00000008 .text   Positive	(math_utils.c)
+  0000ACE8 00000010 .text   ASM_FF1	(math_utils.c)
+  0000ACF8 00000074 .text   SquareRoot	(math_utils.c)
+  0000AD6C 00000008 .text   SensorTemp_Enable	(sensors.c)
+  0000AD74 000000B4 .text   SensorTemp_Get	(sensors.c)
+  0000AE28 00000008 .text   SensorLight_Enable	(sensors.c)
+  0000AE30 0000000C .text   SensorLight_Disable	(sensors.c)
+  0000AE3C 0000008C .text   SensorLight_Get	(sensors.c)
+  0000AEC8 00000028 .text   SensorLight_GetLast	(sensors.c)
+  0000AEF0 00000008 .text   SensorVoltage_Enable	(sensors.c)
+  0000AEF8 00000008 .text   SensorVoltage_Status	(sensors.c)
+  0000AF00 00000008 .text   SensorCurrent_Enable	(sensors.c)
+  0000AF08 00000008 .text   SensorCurrent_Status	(sensors.c)
+  0000AF10 000004E8 .text   EnergyMetering_Task	(smartmeter.c)
+  0000B3F8 00000238 .text   ADC_handler	(smartmeter.c)
+  0000B630 00000108 .text   ADC_Tick	(smartmeter.c)
+  0000B738 0000001C .text   Smartmeter_GetValues	(smartmeter.c)
+  0000B754 00000020 .text   Smartmeter_GetStoredEnergy	(smartmeter.c)
+  0000B774 0000002C .text   Smartmeter_Start	(smartmeter.c)
+  0000B7A0 00000020 .text   Smartmeter_Stop	(smartmeter.c)
+  0000B7C0 00000008 .text   Flash_Read	(flash.c)
+  0000B7C8 0000002C .text   Flash_Cmd	(flash.c)
+  0000B7F4 00000048 .text   Flash_Erase	(flash.c)
+  0000B83C 00000084 .text   Flash_Prog	(flash.c)
+  0000B8C0 00000010 .text   Flash_Clock_Init	(flash.c)
+  0000B8D0 0000001C .text   __call_static_initializers	(librt.a cf_staticinitia)
+  0000B8EC 0000002C .text   __destroy_global_chain	(librt.a cf_staticinitia)
+  0000B918 0000003E .text   __ldivu__	(librt.a cf_runtime.o   )
+  0000B956 00000034 .text   __ldiv__	(librt.a cf_runtime.o   )
+  0000B98A 0000003C .text   __lmodu__	(librt.a cf_runtime.o   )
+  0000B9C6 0000001A .text   __rt_neg64	(librt.a longlongcf.o   )
+  0000B9E0 0000001E .text   __rt_sub64	(librt.a longlongcf.o   )
+  0000B9FE 000000EE .text   __rt_divmod64	(librt.a longlongcf.o   )
+  0000BAEC 000000B8 .text   __rt_divs64	(librt.a longlongcf.o   )
+  0000BBA4 0000002E .text   __rt_shl64	(librt.a longlongcf.o   )
+  0000BBD2 0000000C .text   _ewl_exit	(librt.a abort_exit.o   )
+  0000BBE0 00000014 .rodata @228	(main.c)
+  0000BBF4 00000019 .rodata @229	(main.c)
+  0000BC0D 00000012 .rodata @230	(main.c)
+  0000BC1F 00000013 .rodata @231	(main.c)
+  0000BC32 0000000C .rodata @232	(main.c)
+  0000BC3E 00000001 .rodata ALLOWED_CHAN_TABLE	(MRF24J40.c)
+  0000BC40 00000200 .rodata ccitt_crc16_table	(mac.c)
+  0000BE40 00000080 .rodata PriorityMask	(BRTOS.c)
+  0000BEC0 00000011 .rodata @262	(gpsnet_core.c)
+  0000BED1 00000010 .rodata @263	(gpsnet_core.c)
+  0000BEE1 00000010 .rodata @264	(gpsnet_core.c)
+#>0000BEF4          ___ROM_AT (linker command file)
+#>0000BEF4          ___DATA_ROM (linker command file)
+
+# .data
+#>008001A0          ___DATA_RAM (linker command file)
+#>008001A0          __exception_table_start__ (linker command file)
+# Exception index
+  008001A0 00000000         Exception Table Index	()
+#>008001A0          __exception_table_end__ (linker command file)
+#>008001A0          ___sinit__ (linker command file)
+# Linker generated symbols
+  008001A0 00000004         static initializer	(linker generated)
+#>008001A4          __START_DATA (linker command file)
+  008001A4 00000001 .data   Config_REPORT_PERIOD_1000MS	(app.c)
+  008001A5 00000001 .data   Config_REPORT_JITTER_100MS	(app.c)
+  008001A8 00000004 .data   endereco	(Bootloader_wireless.c)
+  008001AC 00000002 .data   CRC16	(Bootloader_wireless.c)
+  008001AE 00000002 .data   crc_codigo2	(Bootloader_wireless.c)
+  008001B0 00000002 .data   crc_codigo	(Bootloader_wireless.c)
+  008001B2 00000001 .data   currentRxChannel	(MRF24J40.c)
+  008001B3 00000001 .data   currentTxChannel	(MRF24J40.c)
+  008001B4 00000002 .data   macPANId	(mac.c)
+  008001B6 00000002 .data   macAddr	(mac.c)
+  008001B8 00000001 .data   SequenceNumber	(mac.c)
+  008001B9 00000001 .data   BetterDepth	(network.c)
+  008001BA 00000002 .data   NeighborPingTimeV	(network.c)
+  008001BC 00000002 .data   RadioWatchdog	(network.c)
+  008001BE 00000001 .data   NeighborPingTimeCnt	(network.c)
+  008001BF 00000001 .data   App_SeqNumber	(network.c)
+  008001C0 00000190 .data   ISR_STACK	(HAL.c)
+  00800350 00000004 .data   SPvalue_bkp	(HAL.c)
+  00800354 00000004 .data   StackAddress	(BRTOS.c)
+  00800358 00000004 .data   OSBlockedList	(BRTOS.c)
+  0080035C 00000001 .data   SensorVoltage_is_enable	(sensors.c)
+  0080035D 00000001 .data   SensorCurrent_is_enable	(sensors.c)
+  0080035E 00000001 .data   Buffer	(smartmeter.c)
+  0080035F 00000001 .data   SmartMeterState	(smartmeter.c)
+#>00800360          __END_DATA (linker command file)
+#>00800360          __START_SDATA (linker command file)
+#>00800360          __END_SDATA (linker command file)
+#>00800360          ___DATA_END (linker command file)
+#>00800360          __SDA_BASE (linker command file)
+
+# .bss
+#>00800360          ___BSS_START (linker command file)
+#>00800360          __START_SBSS (linker command file)
+#>00800360          __END_SBSS (linker command file)
+#>00800360          __START_BSS (linker command file)
+  00800360 00000004 .bss    TurnOn_Voltage	(tasks.c)
+  00800364 00000004 .bss    Rele_Event	(tasks.c)
+  00800368 00000001 .bss    Config_LUX_THRESHOLD_MIN	(app.c)
+  00800369 00000001 .bss    Config_LUX_THRESHOLD_MAX	(app.c)
+  0080036A 00000001 .bss    Config_PARENT_THRESHOLD	(app.c)
+  0080036B 00000001 .bss    Config_PARENT_THRESHOLD_MIN	(app.c)
+  0080036C 00000001 .bss    Lamp_State_Reg	(app.c)
+  0080036D 00000001 .bss    fail	(app.c)
+  0080036E 00000001 .bss    error	(Bootloader_wireless.c)
+  00800370 00000048 .bss    data_checksum	(Bootloader_wireless.c)
+  008003B8 00000004 .bss    resp	(Bootloader_wireless.c)
+  008003BC 00000048 .bss    structured_data	(Bootloader_wireless.c)
+  00800404 00000001 .bss    SPIData	(SPI.c)
+  00800405 00000001 .bss    currentTxPower	(MRF24J40.c)
+  00800406 00000010 .bss    Radio_State_Counter	(MRF24J40.c)
+  00800416 00000001 .bss    RouterCapacity	(mac.c)
+  00800417 00000001 .bss    macACK	(mac.c)
+  00800418 00000001 .bss    BeaconCnt	(mac.c)
+  0080041A 00000002 .bss    FrameCRC	(mac.c)
+  0080041C 00000001 .bss    mac_tasks_pending	(mac.c)
+  0080041E 00000010 .bss    gpsnet_beacon	(mac.c)
+  0080042E 00000092 .bss    gpsnet_packet	(mac.c)
+  008004C0 00000002 .bss    mac_frame_control	(mac.c)
+  008004C2 00000008 .bss    AssociateAddress	(mac.c)
+  008004CA 00000002 .bss    NeighborTable	(network.c)
+  008004CC 00000001 .bss    BaseCnt	(network.c)
+  008004CD 00000001 .bss    NearBase	(network.c)
+  008004CE 00000002 .bss    DepthWatchdog	(network.c)
+  008004D0 00000001 .bss    nwk_tasks_pending	(network.c)
+  008004D1 00000053 .bss    NWKPayload	(network.c)
+  00800524 00000004 .bss    dst_gps_longitude	(network.c)
+  00800528 00000004 .bss    dst_gps_latitude	(network.c)
+  0080052C 00000004 .bss    gps_longitude	(network.c)
+  00800530 00000004 .bss    gps_latitude	(network.c)
+  00800534 000000B8 .bss    gpsnet_neighbor_ping	(network.c)
+  008005EC 00000078 .bss    BaseStations	(network.c)
+  00800664 00000180 .bss    gpsnet_neighbourhood	(network.c)
+  008007E4 00000004 .bss    SPvalue	(HAL.c)
+  008007E8 00000002 .bss    iStackAddress	(BRTOS.c)
+  008007EA 00000002 .bss    iQueueAddress	(BRTOS.c)
+  008007EC 00000004 .bss    OSReadyList	(BRTOS.c)
+  008007F0 00000004 .bss    TaskAlloc	(BRTOS.c)
+  008007F4 00000001 .bss    iNesting	(BRTOS.c)
+  008007F8 000000F0 .bss    ContextTask	(BRTOS.c)
+  008008E8 00000300 .bss    QUEUE_STACK	(BRTOS.c)
+  00800BE8 00000DE0 .bss    STACK	(BRTOS.c)
+  008019C8 00000024 .bss    BRTOS_Queue_Table	(BRTOS.c)
+  008019EC 0000000C .bss    BRTOS_Mbox_Table	(BRTOS.c)
+  008019F8 00000030 .bss    BRTOS_Mutex_Table	(BRTOS.c)
+  00801A28 00000050 .bss    BRTOS_Sem_Table	(BRTOS.c)
+  00801A78 00000004 .bss    Head	(BRTOS.c)
+  00801A7C 00000004 .bss    Tail	(BRTOS.c)
+  00801A80 00000002 .bss    OSTickCounter	(BRTOS.c)
+  00801A82 00000001 .bss    SelectedTask	(BRTOS.c)
+  00801A83 00000001 .bss    currentTask	(BRTOS.c)
+  00801A84 00000001 .bss    NumberOfInstalledTasks	(BRTOS.c)
+  00801A85 00000020 .bss    PriorityVector	(BRTOS.c)
+  00801AA6 00000004 .bss    Data	(OS_RTC.c)
+  00801AAA 00000003 .bss    Hora	(OS_RTC.c)
+  00801AAE 0000001C .bss    GPSNET_NodeStat	(gpsnet_core.c)
+  00801ACA 00000002 .bss    StatTimer	(gpsnet_core.c)
+  00801ACC 00000002 .bss    AssociateTimeout	(gpsnet_core.c)
+  00801ACE 00000002 .bss    NeighborCnt	(gpsnet_core.c)
+  00801AD0 00000004 .bss    NeighbourhoodCnt	(gpsnet_core.c)
+  00801AD4 00000004 .bss    App1_event	(gpsnet_core.c)
+  00801AD8 00000004 .bss    MAC_Event	(gpsnet_core.c)
+  00801ADC 00000004 .bss    RF_TX_Event	(gpsnet_core.c)
+  00801AE0 00000004 .bss    RF_RX_Event	(gpsnet_core.c)
+  00801AE4 00000004 .bss    RF_Event	(gpsnet_core.c)
+  00801AE8 00000004 .bss    RF	(gpsnet_core.c)
+  00801AEC 00000014 .bss    RFBuffer	(gpsnet_core.c)
+  00801B00 00000002 .bss    BandGap	(adc.c)
+  00801B02 00000002 .bss    Acc	(math_utils.c)
+  00801B04 00000004 .bss    Acc_temp	(math_utils.c)
+  00801B08 00000001 .bss    SensorTemp_is_enable	(sensors.c)
+  00801B09 00000001 .bss    SensorTemp_last_value	(sensors.c)
+  00801B0A 00000001 .bss    SensorLight_is_enable	(sensors.c)
+  00801B0C 00000002 .bss    SensorLight_last_value	(sensors.c)
+  00801B0E 00000002 .bss    Nivel_CC_Corrente	(smartmeter.c)
+  00801B10 00000002 .bss    Nivel_CC_Tensao	(smartmeter.c)
+  00801B14 00000004 .bss    Nivel_ACC_Corrente	(smartmeter.c)
+  00801B18 00000004 .bss    Nivel_ACC_Tensao	(smartmeter.c)
+  00801B1C 00000004 .bss    Fator_Potencia	(smartmeter.c)
+  00801B20 00000018 .bss    SmartEnergyValues	(smartmeter.c)
+  00801B38 00000004 .bss    EnergyMeter	(smartmeter.c)
+  00801B3C 00000001 .bss    buffer_counter	(smartmeter.c)
+  00801B3D 00000001 .bss    buffer_counter_v	(smartmeter.c)
+  00801B3E 00000001 .bss    buffer_counter_i	(smartmeter.c)
+  00801B40 00000004 .bss    Do_Calculation	(smartmeter.c)
+  00801B44 00000100 .bss    tensao2	(smartmeter.c)
+  00801C44 00000100 .bss    tensao1	(smartmeter.c)
+  00801D44 00000100 .bss    corrente2	(smartmeter.c)
+  00801E44 00000100 .bss    corrente1	(smartmeter.c)
+  00801F44 00000004 .bss    FnCmdInRam	(flash.c)
+  00801F48 00000030 .bss    CmdInRam	(flash.c)
+  00801F78 00000004 .bss    __global_destructor_chain	(librt.a cf_staticinitia)
+#>00801F7C          __END_BSS (linker command file)
+#>00801F7C          ___BSS_END (linker command file)
+
+# .custom
+#>00801F7C          ___HEAP_START (linker command file)
+#>00801F7C          ___heap_addr (linker command file)
+#>00801F7C          ___HEAP_END (linker command file)
+#>00801F7C          ___SP_END (linker command file)
+#>00801FEC          ___SP_INIT (linker command file)
+#>00801F7C          ___mem_limit (linker command file)
+#>00000010          ___stack_safety (linker command file)
+#>00801FEC          __SP_INIT (linker command file)
+#>00801FEC          ___SP_AFTER_RESET (linker command file)
+#>0000C0B4          _romp_at (linker command file)
+
+# .romp
+#>0000C0B4          __S_romp (linker command file)
+
+
+# Memory map:
+  v_addr   p_addr   size     name
+  00000000 00000000 00000004 .abs_vector_0 abs_vector_0
+  00000004 00000004 00000004 .abs_vector_1 abs_vector_1
+  00000008 00000008 00000004 .abs_vector_2 abs_vector_2
+  0000000C 0000000C 00000004 .abs_vector_3 abs_vector_3
+  00000010 00000010 00000004 .abs_vector_4 abs_vector_4
+  00000014 00000014 00000004 .abs_vector_5 abs_vector_5
+  00000018 00000018 00000004 .abs_vector_6 abs_vector_6
+  0000001C 0000001C 00000004 .abs_vector_7 abs_vector_7
+  00000020 00000020 00000004 .abs_vector_8 abs_vector_8
+  00000024 00000024 00000004 .abs_vector_9 abs_vector_9
+  00000028 00000028 00000004 .abs_vector_10 abs_vector_10
+  0000002C 0000002C 00000004 .abs_vector_11 abs_vector_11
+  00000030 00000030 00000004 .abs_vector_12 abs_vector_12
+  00000034 00000034 00000004 .abs_vector_13 abs_vector_13
+  00000038 00000038 00000004 .abs_vector_14 abs_vector_14
+  0000003C 0000003C 00000004 .abs_vector_15 abs_vector_15
+  00000040 00000040 00000004 .abs_vector_16 abs_vector_16
+  00000044 00000044 00000004 .abs_vector_17 abs_vector_17
+  00000048 00000048 00000004 .abs_vector_18 abs_vector_18
+  0000004C 0000004C 00000004 .abs_vector_19 abs_vector_19
+  00000050 00000050 00000004 .abs_vector_20 abs_vector_20
+  00000054 00000054 00000004 .abs_vector_21 abs_vector_21
+  00000058 00000058 00000004 .abs_vector_22 abs_vector_22
+  0000005C 0000005C 00000004 .abs_vector_23 abs_vector_23
+  00000060 00000060 00000004 .abs_vector_24 abs_vector_24
+  00000064 00000064 00000004 .abs_vector_25 abs_vector_25
+  00000068 00000068 00000004 .abs_vector_26 abs_vector_26
+  0000006C 0000006C 00000004 .abs_vector_27 abs_vector_27
+  00000070 00000070 00000004 .abs_vector_28 abs_vector_28
+  00000074 00000074 00000004 .abs_vector_29 abs_vector_29
+  00000078 00000078 00000004 .abs_vector_30 abs_vector_30
+  0000007C 0000007C 00000004 .abs_vector_31 abs_vector_31
+  00000080 00000080 00000004 .abs_vector_32 abs_vector_32
+  00000084 00000084 00000004 .abs_vector_33 abs_vector_33
+  00000088 00000088 00000004 .abs_vector_34 abs_vector_34
+  0000008C 0000008C 00000004 .abs_vector_35 abs_vector_35
+  00000090 00000090 00000004 .abs_vector_36 abs_vector_36
+  00000094 00000094 00000004 .abs_vector_37 abs_vector_37
+  00000098 00000098 00000004 .abs_vector_38 abs_vector_38
+  0000009C 0000009C 00000004 .abs_vector_39 abs_vector_39
+  000000A0 000000A0 00000004 .abs_vector_40 abs_vector_40
+  000000A4 000000A4 00000004 .abs_vector_41 abs_vector_41
+  000000A8 000000A8 00000004 .abs_vector_42 abs_vector_42
+  000000AC 000000AC 00000004 .abs_vector_43 abs_vector_43
+  000000B0 000000B0 00000004 .abs_vector_44 abs_vector_44
+  000000B4 000000B4 00000004 .abs_vector_45 abs_vector_45
+  000000B8 000000B8 00000004 .abs_vector_46 abs_vector_46
+  000000BC 000000BC 00000004 .abs_vector_47 abs_vector_47
+  000000C0 000000C0 00000004 .abs_vector_48 abs_vector_48
+  000000C4 000000C4 00000004 .abs_vector_49 abs_vector_49
+  000000C8 000000C8 00000004 .abs_vector_50 abs_vector_50
+  000000CC 000000CC 00000004 .abs_vector_51 abs_vector_51
+  000000D0 000000D0 00000004 .abs_vector_52 abs_vector_52
+  000000D4 000000D4 00000004 .abs_vector_53 abs_vector_53
+  000000D8 000000D8 00000004 .abs_vector_54 abs_vector_54
+  000000DC 000000DC 00000004 .abs_vector_55 abs_vector_55
+  000000E0 000000E0 00000004 .abs_vector_56 abs_vector_56
+  000000E4 000000E4 00000004 .abs_vector_57 abs_vector_57
+  000000E8 000000E8 00000004 .abs_vector_58 abs_vector_58
+  000000EC 000000EC 00000004 .abs_vector_59 abs_vector_59
+  000000F0 000000F0 00000004 .abs_vector_60 abs_vector_60
+  000000F4 000000F4 00000004 .abs_vector_61 abs_vector_61
+  000000F8 000000F8 00000004 .abs_vector_62 abs_vector_62
+  000000FC 000000FC 00000004 .abs_vector_63 abs_vector_63
+  00000100 00000100 00000004 .abs_vector_64 abs_vector_64
+  00000104 00000104 00000004 .abs_vector_65 abs_vector_65
+  00000108 00000108 00000004 .abs_vector_66 abs_vector_66
+  0000010C 0000010C 00000004 .abs_vector_67 abs_vector_67
+  00000110 00000110 00000004 .abs_vector_68 abs_vector_68
+  00000114 00000114 00000004 .abs_vector_69 abs_vector_69
+  00000118 00000118 00000004 .abs_vector_70 abs_vector_70
+  0000011C 0000011C 00000004 .abs_vector_71 abs_vector_71
+  00000120 00000120 00000004 .abs_vector_72 abs_vector_72
+  00000124 00000124 00000004 .abs_vector_73 abs_vector_73
+  00000128 00000128 00000004 .abs_vector_74 abs_vector_74
+  0000012C 0000012C 00000004 .abs_vector_75 abs_vector_75
+  00000130 00000130 00000004 .abs_vector_76 abs_vector_76
+  00000134 00000134 00000004 .abs_vector_77 abs_vector_77
+  00000138 00000138 00000004 .abs_vector_78 abs_vector_78
+  0000013C 0000013C 00000004 .abs_vector_79 abs_vector_79
+  00000140 00000140 00000004 .abs_vector_80 abs_vector_80
+  00000144 00000144 00000004 .abs_vector_81 abs_vector_81
+  00000148 00000148 00000004 .abs_vector_82 abs_vector_82
+  0000014C 0000014C 00000004 .abs_vector_83 abs_vector_83
+  00000150 00000150 00000004 .abs_vector_84 abs_vector_84
+  00000154 00000154 00000004 .abs_vector_85 abs_vector_85
+  00000158 00000158 00000004 .abs_vector_86 abs_vector_86
+  0000015C 0000015C 00000004 .abs_vector_87 abs_vector_87
+  00000160 00000160 00000004 .abs_vector_88 abs_vector_88
+  00000164 00000164 00000004 .abs_vector_89 abs_vector_89
+  00000168 00000168 00000004 .abs_vector_90 abs_vector_90
+  0000016C 0000016C 00000004 .abs_vector_91 abs_vector_91
+  00000170 00000170 00000004 .abs_vector_92 abs_vector_92
+  00000174 00000174 00000004 .abs_vector_93 abs_vector_93
+  00000178 00000178 00000004 .abs_vector_94 abs_vector_94
+  0000017C 0000017C 00000004 .abs_vector_95 abs_vector_95
+  00000180 00000180 00000004 .abs_vector_96 abs_vector_96
+  00000184 00000184 00000004 .abs_vector_97 abs_vector_97
+  00000188 00000188 00000004 .abs_vector_98 abs_vector_98
+  0000018C 0000018C 00000004 .abs_vector_99 abs_vector_99
+  00000190 00000190 00000004 .abs_vector_100 abs_vector_100
+  00000194 00000194 00000004 .abs_vector_101 abs_vector_101
+  00000198 00000198 00000004 .abs_vector_102 abs_vector_102
+  0000040D 0000040D 00000001 .abs_NVPROT_INIT abs_NVPROT_INIT
+  00000FF0 00000FF0 00000008 .abs_mac64Address abs_mac64Address
+  00001000 00001000 00000004 .abs_Latitude abs_Latitude
+  00001004 00001004 00000004 .abs_Longitude abs_Longitude
+  00001008 00001008 00000004 .abs_macAddress abs_macAddress
+  0000100C 0000100C 00000004 .abs_macPANIdentificator abs_macPANIdentificator
+  00002000 00002000 0000019C .abs_RAM_vector abs_RAM_vector
+  000021D0 000021D0 00000008 .abs__UserEntry abs__UserEntry
+  000021D8 000021D8 00000004 .abs_CurrentFactor abs_CurrentFactor
+  0001FC00 0001FC00 00000004 .abs_Energy_Meter_Reg abs_Energy_Meter_Reg
+  00000410 00000410 00000000 .bootcode  bootcode
+  00000410 00000410 000003E0 .bootcodes bootcode
+  00002200 00002200 00000000 .code      code
+  00002200 00002200 00009CF4 .text      code
+  00800000 00800000 000001A0            vectorram
+  008001A0 008001A0 00000000 .userram   userram
+  008001A0 0000BEF4 000001C0 .data      userram
+  00800360 00800360 00001C1C .bss       userram
+  00801F7C 00801F7C 00000000 .custom    userram
+  00801F7C 0000C0B4 00000018 .romp      userram
+
+# Link start time: Thu Oct 22 11:01:41 2015
+# Link end time: Thu Oct 22 11:01:41 2015

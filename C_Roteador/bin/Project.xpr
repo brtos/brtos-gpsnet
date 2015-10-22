@@ -1,0 +1,6 @@
+Data < ADDXPR ONLY_ADD_IF_NEW "ContextTask"
+Data < ADDXPR ONLY_ADD_IF_NEW "currentTask"
+Data < ADDXPR ONLY_ADD_IF_NEW "NWKPayload"
+Data < ADDXPR ONLY_ADD_IF_NEW "GPSNET_NodeStat"
+Data < ADDXPR ONLY_ADD_IF_NEW "Hora"
+Data < ADDXPR ONLY_ADD_IF_NEW "RadioOwner"

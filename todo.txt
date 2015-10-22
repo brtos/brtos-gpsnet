@@ -1,0 +1,19 @@
+Legenda:
+x - Pronto, T - falta testar, E - em andamento, C - cancelado
+
+[x] Identificar MACs duplicados
+[x] Colocar canal de rx no ping e na tabela de vizinhos.
+[x] Adicionar função para detectar estouros de pilha.
+[x] Desabilitar Auto ACK do Rx antes de buffer overflow.
+[x] Colocar msg de rota e testar alto tráfego de dados.
+[ ] Confirmação de mensagens na camada de app.
+[ ] Reusar NWKPayload para associação (beacons), roteamento e para app
+[ ] Otimizar código do face routing do GPSR, cruzamento e detecção de loops
+[ ] Adicionar LCR ao GPSR ou flood com numero fixo de saltos.
+[ ] Adicionar troca automática de canal de rx.
+[ ] Suporte a criptografia na camada de enlace.
+[ ] Suporte a sincronização e calendário.
+
+
+
+

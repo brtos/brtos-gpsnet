@@ -1,0 +1,23 @@
+Início da rede (associação):
+
+1) cada nó possui um endereço MAc de 64 bits único gravado em NVM (memoria não-volátil)
+
+2) o nó inicia verificando se não possui um endereço MAC de 16 bits. Neste caso, tenta fazer a associação na rede (função GPSNET_Associate()
+). Não pode ser roteador (RouteCapability=0)
+
+3) Depois de associado, ele pode participar do roteamento em direção à estação-base (direção down). RouteCapability=1
+
+4) Se estiver habilitado em software, ele pode participar do roteamento na direção contrária à estação-base (direção up). RouteCapability=2
+
+5) Se tiver um endereço físico (posição), ele pode participar de roteamento geográfico greedy (RouteCapability=3).
+
+6) Se estiver habilitado em software, ele pode participar de roteamento geográfico greedy-face (RouteCapability=4).
+
+Funcionamento da rede:
+
+1) Nós reportam dados periodicamente para coordenador mais próximo.
+2) Coordenador pode enviar comandos a qualquer nó usando a posição geográfica.
+
+
+
+

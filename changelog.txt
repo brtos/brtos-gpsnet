@@ -1,0 +1,7 @@
+07-09-2013: Primeiro inclusão do código, e renomeação da pastas. Projetos embarcados, em C, iniciam com "C_". Projetos para PC iniciam com "CS_".
+05-10-2013: adicionado suporte multicanal parcialmente.
+09-10-2013: adicionada técnica de planarização GG/MW
+19-12-2013: bootloader adicionado e testado no C_roteador
+05-01-2014: alterações no driver do rádio
+26-03-2014: bootloader adicionado e testado no projeto C_bootloader
+

@@ -1,0 +1,939 @@
+
+
+
+# .abs_vector_0
+  00000000 00000004 .abs    vector_0	(MCUinit.c)
+
+# .abs_vector_1
+  00000004 00000004 .abs    vector_1	(MCUinit.c)
+
+# .abs_vector_2
+  00000008 00000004 .abs    vector_2	(MCUinit.c)
+
+# .abs_vector_3
+  0000000C 00000004 .abs    vector_3	(MCUinit.c)
+
+# .abs_vector_4
+  00000010 00000004 .abs    vector_4	(MCUinit.c)
+
+# .abs_vector_5
+  00000014 00000004 .abs    vector_5	(MCUinit.c)
+
+# .abs_vector_6
+  00000018 00000004 .abs    vector_6	(MCUinit.c)
+
+# .abs_vector_7
+  0000001C 00000004 .abs    vector_7	(MCUinit.c)
+
+# .abs_vector_8
+  00000020 00000004 .abs    vector_8	(MCUinit.c)
+
+# .abs_vector_9
+  00000024 00000004 .abs    vector_9	(MCUinit.c)
+
+# .abs_vector_10
+  00000028 00000004 .abs    vector_10	(MCUinit.c)
+
+# .abs_vector_11
+  0000002C 00000004 .abs    vector_11	(MCUinit.c)
+
+# .abs_vector_12
+  00000030 00000004 .abs    vector_12	(MCUinit.c)
+
+# .abs_vector_13
+  00000034 00000004 .abs    vector_13	(MCUinit.c)
+
+# .abs_vector_14
+  00000038 00000004 .abs    vector_14	(MCUinit.c)
+
+# .abs_vector_15
+  0000003C 00000004 .abs    vector_15	(MCUinit.c)
+
+# .abs_vector_16
+  00000040 00000004 .abs    vector_16	(MCUinit.c)
+
+# .abs_vector_17
+  00000044 00000004 .abs    vector_17	(MCUinit.c)
+
+# .abs_vector_18
+  00000048 00000004 .abs    vector_18	(MCUinit.c)
+
+# .abs_vector_19
+  0000004C 00000004 .abs    vector_19	(MCUinit.c)
+
+# .abs_vector_20
+  00000050 00000004 .abs    vector_20	(MCUinit.c)
+
+# .abs_vector_21
+  00000054 00000004 .abs    vector_21	(MCUinit.c)
+
+# .abs_vector_22
+  00000058 00000004 .abs    vector_22	(MCUinit.c)
+
+# .abs_vector_23
+  0000005C 00000004 .abs    vector_23	(MCUinit.c)
+
+# .abs_vector_24
+  00000060 00000004 .abs    vector_24	(MCUinit.c)
+
+# .abs_vector_25
+  00000064 00000004 .abs    vector_25	(MCUinit.c)
+
+# .abs_vector_26
+  00000068 00000004 .abs    vector_26	(MCUinit.c)
+
+# .abs_vector_27
+  0000006C 00000004 .abs    vector_27	(MCUinit.c)
+
+# .abs_vector_28
+  00000070 00000004 .abs    vector_28	(MCUinit.c)
+
+# .abs_vector_29
+  00000074 00000004 .abs    vector_29	(MCUinit.c)
+
+# .abs_vector_30
+  00000078 00000004 .abs    vector_30	(MCUinit.c)
+
+# .abs_vector_31
+  0000007C 00000004 .abs    vector_31	(MCUinit.c)
+
+# .abs_vector_32
+  00000080 00000004 .abs    vector_32	(MCUinit.c)
+
+# .abs_vector_33
+  00000084 00000004 .abs    vector_33	(MCUinit.c)
+
+# .abs_vector_34
+  00000088 00000004 .abs    vector_34	(MCUinit.c)
+
+# .abs_vector_35
+  0000008C 00000004 .abs    vector_35	(MCUinit.c)
+
+# .abs_vector_36
+  00000090 00000004 .abs    vector_36	(MCUinit.c)
+
+# .abs_vector_37
+  00000094 00000004 .abs    vector_37	(MCUinit.c)
+
+# .abs_vector_38
+  00000098 00000004 .abs    vector_38	(MCUinit.c)
+
+# .abs_vector_39
+  0000009C 00000004 .abs    vector_39	(MCUinit.c)
+
+# .abs_vector_40
+  000000A0 00000004 .abs    vector_40	(MCUinit.c)
+
+# .abs_vector_41
+  000000A4 00000004 .abs    vector_41	(MCUinit.c)
+
+# .abs_vector_42
+  000000A8 00000004 .abs    vector_42	(MCUinit.c)
+
+# .abs_vector_43
+  000000AC 00000004 .abs    vector_43	(MCUinit.c)
+
+# .abs_vector_44
+  000000B0 00000004 .abs    vector_44	(MCUinit.c)
+
+# .abs_vector_45
+  000000B4 00000004 .abs    vector_45	(MCUinit.c)
+
+# .abs_vector_46
+  000000B8 00000004 .abs    vector_46	(MCUinit.c)
+
+# .abs_vector_47
+  000000BC 00000004 .abs    vector_47	(MCUinit.c)
+
+# .abs_vector_48
+  000000C0 00000004 .abs    vector_48	(MCUinit.c)
+
+# .abs_vector_49
+  000000C4 00000004 .abs    vector_49	(MCUinit.c)
+
+# .abs_vector_50
+  000000C8 00000004 .abs    vector_50	(MCUinit.c)
+
+# .abs_vector_51
+  000000CC 00000004 .abs    vector_51	(MCUinit.c)
+
+# .abs_vector_52
+  000000D0 00000004 .abs    vector_52	(MCUinit.c)
+
+# .abs_vector_53
+  000000D4 00000004 .abs    vector_53	(MCUinit.c)
+
+# .abs_vector_54
+  000000D8 00000004 .abs    vector_54	(MCUinit.c)
+
+# .abs_vector_55
+  000000DC 00000004 .abs    vector_55	(MCUinit.c)
+
+# .abs_vector_56
+  000000E0 00000004 .abs    vector_56	(MCUinit.c)
+
+# .abs_vector_57
+  000000E4 00000004 .abs    vector_57	(MCUinit.c)
+
+# .abs_vector_58
+  000000E8 00000004 .abs    vector_58	(MCUinit.c)
+
+# .abs_vector_59
+  000000EC 00000004 .abs    vector_59	(MCUinit.c)
+
+# .abs_vector_60
+  000000F0 00000004 .abs    vector_60	(MCUinit.c)
+
+# .abs_vector_61
+  000000F4 00000004 .abs    vector_61	(MCUinit.c)
+
+# .abs_vector_62
+  000000F8 00000004 .abs    vector_62	(MCUinit.c)
+
+# .abs_vector_63
+  000000FC 00000004 .abs    vector_63	(MCUinit.c)
+
+# .abs_vector_64
+  00000100 00000004 .abs    vector_64	(MCUinit.c)
+
+# .abs_vector_65
+  00000104 00000004 .abs    vector_65	(MCUinit.c)
+
+# .abs_vector_66
+  00000108 00000004 .abs    vector_66	(MCUinit.c)
+
+# .abs_vector_67
+  0000010C 00000004 .abs    vector_67	(MCUinit.c)
+
+# .abs_vector_68
+  00000110 00000004 .abs    vector_68	(MCUinit.c)
+
+# .abs_vector_69
+  00000114 00000004 .abs    vector_69	(MCUinit.c)
+
+# .abs_vector_70
+  00000118 00000004 .abs    vector_70	(MCUinit.c)
+
+# .abs_vector_71
+  0000011C 00000004 .abs    vector_71	(MCUinit.c)
+
+# .abs_vector_72
+  00000120 00000004 .abs    vector_72	(MCUinit.c)
+
+# .abs_vector_73
+  00000124 00000004 .abs    vector_73	(MCUinit.c)
+
+# .abs_vector_74
+  00000128 00000004 .abs    vector_74	(MCUinit.c)
+
+# .abs_vector_75
+  0000012C 00000004 .abs    vector_75	(MCUinit.c)
+
+# .abs_vector_76
+  00000130 00000004 .abs    vector_76	(MCUinit.c)
+
+# .abs_vector_77
+  00000134 00000004 .abs    vector_77	(MCUinit.c)
+
+# .abs_vector_78
+  00000138 00000004 .abs    vector_78	(MCUinit.c)
+
+# .abs_vector_79
+  0000013C 00000004 .abs    vector_79	(MCUinit.c)
+
+# .abs_vector_80
+  00000140 00000004 .abs    vector_80	(MCUinit.c)
+
+# .abs_vector_81
+  00000144 00000004 .abs    vector_81	(MCUinit.c)
+
+# .abs_vector_82
+  00000148 00000004 .abs    vector_82	(MCUinit.c)
+
+# .abs_vector_83
+  0000014C 00000004 .abs    vector_83	(MCUinit.c)
+
+# .abs_vector_84
+  00000150 00000004 .abs    vector_84	(MCUinit.c)
+
+# .abs_vector_85
+  00000154 00000004 .abs    vector_85	(MCUinit.c)
+
+# .abs_vector_86
+  00000158 00000004 .abs    vector_86	(MCUinit.c)
+
+# .abs_vector_87
+  0000015C 00000004 .abs    vector_87	(MCUinit.c)
+
+# .abs_vector_88
+  00000160 00000004 .abs    vector_88	(MCUinit.c)
+
+# .abs_vector_89
+  00000164 00000004 .abs    vector_89	(MCUinit.c)
+
+# .abs_vector_90
+  00000168 00000004 .abs    vector_90	(MCUinit.c)
+
+# .abs_vector_91
+  0000016C 00000004 .abs    vector_91	(MCUinit.c)
+
+# .abs_vector_92
+  00000170 00000004 .abs    vector_92	(MCUinit.c)
+
+# .abs_vector_93
+  00000174 00000004 .abs    vector_93	(MCUinit.c)
+
+# .abs_vector_94
+  00000178 00000004 .abs    vector_94	(MCUinit.c)
+
+# .abs_vector_95
+  0000017C 00000004 .abs    vector_95	(MCUinit.c)
+
+# .abs_vector_96
+  00000180 00000004 .abs    vector_96	(MCUinit.c)
+
+# .abs_vector_97
+  00000184 00000004 .abs    vector_97	(MCUinit.c)
+
+# .abs_vector_98
+  00000188 00000004 .abs    vector_98	(MCUinit.c)
+
+# .abs_vector_99
+  0000018C 00000004 .abs    vector_99	(MCUinit.c)
+
+# .abs_vector_100
+  00000190 00000004 .abs    vector_100	(MCUinit.c)
+
+# .abs_vector_101
+  00000194 00000004 .abs    vector_101	(MCUinit.c)
+
+# .abs_vector_102
+  00000198 00000004 .abs    vector_102	(MCUinit.c)
+
+# .abs_vector_103
+  0000019C 00000004 .abs    vector_103	(MCUinit.c)
+
+# .abs_vector_104
+  000001A0 00000004 .abs    vector_104	(MCUinit.c)
+
+# .abs_vector_105
+  000001A4 00000004 .abs    vector_105	(MCUinit.c)
+
+# .abs_vector_106
+  000001A8 00000004 .abs    vector_106	(MCUinit.c)
+
+# .abs_vector_107
+  000001AC 00000004 .abs    vector_107	(MCUinit.c)
+
+# .abs_vector_108
+  000001B0 00000004 .abs    vector_108	(MCUinit.c)
+
+# .abs_vector_109
+  000001B4 00000004 .abs    vector_109	(MCUinit.c)
+
+# .abs_vector_110
+  000001B8 00000004 .abs    vector_110	(MCUinit.c)
+
+# .abs_NVPROT_INIT
+  0000040D 00000001 .abs    NVPROT_INIT	(MCUinit.c)
+
+# .abs_NVOPT_INIT
+  0000040F 00000001 .abs    NVOPT_INIT	(MCUinit.c)
+
+# .abs__UserEntry
+  00000410 00000008 .abs    UserEntry	(MCUinit.c)
+
+# .abs_mac64Address
+  00001FF0 00000008 .abs    mac64Address	(MRF24J40.c)
+
+# .abs_RAM_vector
+  00002000 000001BC .abs    RAM_vector	(MCUinit.c)
+
+# .abs_Latitude
+  0001FC00 00000004 .abs    Latitude	(network.c)
+
+# .abs_Longitude
+  0001FC04 00000004 .abs    Longitude	(network.c)
+#>FFFF8000          __IPSBAR (linker command file)
+#>00000000          __VECTOR_TABLE_BASE (linker command file)
+#>00000000          ___heap_size (linker command file)
+#>00000100          ___stack_size (linker command file)
+#>00000200          ___usb_size (linker command file)
+#>00800000          ___RAM_ADDRESS (linker command file)
+#>00004000          ___RAM_SIZE (linker command file)
+#>00000000          ___FLASH_ADDRESS (linker command file)
+#>00020000          ___FLASH_SIZE (linker command file)
+
+# .bdtram
+
+# .userram
+
+# .bootcode
+
+# .bootcodes
+#>00000420          ___Boot_START (linker command file)
+  00000420 00000002 .text   __initialize_system	(startcf.c)
+  00000422 0000001C .text   __copy_rom_section	(startcf.c)
+  0000043E 00000036 .text   __copy_rom_sections_to_ram	(startcf.c)
+  00000474 00000004 .text   _ExitProcess	(startcf.c)
+  00000478 00000064 .text   clear_mem	(startcf.c)
+  000004DC 000000A0 .text   _startup	(startcf.c)
+  0000057C 0000001C .text   __call_static_initializers	(librt.a cf_staticinitia)
+  00000598 0000002C .text   __destroy_global_chain	(librt.a cf_staticinitia)
+  000005C4 0000003E .text   __ldivu__	(librt.a cf_runtime.o   )
+  00000602 00000034 .text   __ldiv__	(librt.a cf_runtime.o   )
+  00000636 0000001A .text   __rt_neg64	(librt.a longlongcf.o   )
+  00000650 0000001E .text   __rt_sub64	(librt.a longlongcf.o   )
+  0000066E 000000EE .text   __rt_divmod64	(librt.a longlongcf.o   )
+  0000075C 000000B8 .text   __rt_divs64	(librt.a longlongcf.o   )
+  00000814 0000002E .text   __rt_shl64	(librt.a longlongcf.o   )
+  00000842 0000000C .text   _ewl_exit	(librt.a abort_exit.o   )
+  00000850 00000020 .text   OSSchedule	(BRTOS.c)
+  00000870 00000008 .text   OSGetCount	(BRTOS.c)
+  00000878 0000001C .text   OSIncCounter	(BRTOS.c)
+  00000894 000000D0 .text   DelayTask	(BRTOS.c)
+  00000964 000000B8 .text   OS_TICK_HANDLER	(BRTOS.c)
+  00000A1C 00000060 .text   BRTOSStart	(BRTOS.c)
+  00000A7C 00000048 .text   PreInstallTasks	(BRTOS.c)
+  00000AC4 00000006 .text   Idle	(BRTOS.c)
+  00000ACA 000001D4 .text   InstallTask	(BRTOS.c)
+  00000C9E 000000EC .text   InstallIdle	(BRTOS.c)
+  00000D8A 00000014 .text   BRTOS_Init	(BRTOS.c)
+  00000D9E 0000007E .text   initEvents	(BRTOS.c)
+  00000E1C 0000000C .text   SAScheduler	(BRTOS.c)
+  00000E28 00000080 .rodata PriorityMask	(BRTOS.c)
+  00000EA8 00000018 .text   TickTimerSetup	(HAL.c)
+  00000EC0 00000108 .text   TickTimer	(HAL.c)
+  00000FC8 000000E0 .text   SwitchContext	(HAL.c)
+  000010A8 0000008A .text   CreateVirtualStack	(HAL.c)
+  00001132 00000010 .text   OS_CPU_SR_Save	(HAL.c)
+  00001142 00000004 .text   OS_CPU_SR_Restore	(HAL.c)
+  00001148 000000AE .text   OSMboxCreate	(mbox.c)
+  000011F6 000001CA .text   OSMboxPend	(mbox.c)
+  000013C0 0000008E .text   OSMboxPost	(mbox.c)
+  00001450 000000CA .text   OSMutexCreate	(mutex.c)
+  0000151A 0000019E .text   OSMutexAcquire	(mutex.c)
+  000016B8 000000F2 .text   OSMutexRelease	(mutex.c)
+  000017AC 0000007A .text   OSUpdateUptime	(OS_RTC.c)
+  00001826 00000020 .text   OSResetTime	(OS_RTC.c)
+  00001846 00000018 .text   OSUptime	(OS_RTC.c)
+  0000185E 00000010 .text   OSUpDate	(OS_RTC.c)
+  00001870 00000128 .text   OSQueueCreate	(queue.c)
+  00001998 00000052 .text   OSWQueue	(queue.c)
+  000019EA 0000004E .text   OSRQueue	(queue.c)
+  00001A38 00000024 .text   OSCleanQueue	(queue.c)
+  00001A5C 00000098 .text   OSSemCreate	(semaphore.c)
+  00001AF4 000001BA .text   OSSemPend	(semaphore.c)
+  00001CAE 0000008C .text   OSSemPost	(semaphore.c)
+  00001D3C 00000006 .text   Flash_Read	(flash.c)
+  00001D42 0000002C .text   Flash_Cmd	(flash.c)
+  00001D6E 00000044 .text   Flash_Erase	(flash.c)
+  00001DB2 0000008A .text   Flash_Prog	(flash.c)
+  00001E3C 0000000E .text   Flash_Clock_Init	(flash.c)
+#>00001E4C          ___Boot_END (linker command file)
+
+# .code
+
+# .text
+  00002200 00000094 .text   main	(main.c)
+  00002294 000000C6 .text   __initialize_hardware	(MCUinit.c)
+  0000235A 00000010 .text   MCU_init	(MCUinit.c)
+  0000236A 00000002 .text   isr_default	(MCUinit.c)
+  0000236C 00000026 .text   ISR_vtable_reallocation	(MCUinit.c)
+  00002392 00000040 .text   System_Time	(tasks.c)
+  000023D2 0000003C .text   Comm2PC_Task	(tasks.c)
+  0000240E 0000012A .text   HeartBeat_LED_Task	(tasks.c)
+  00002538 0000005E .text   GPSNET_Apps	(tasks.c)
+  00002596 00000010 .text   usb_bus_error_event	(usb_cdc.c)
+  000025A6 00000010 .text   usb_suspend_event	(usb_cdc.c)
+  000025B6 00000010 .text   usb_wakeup_event	(usb_cdc.c)
+  000025C6 00000010 .text   usb_reset_event	(usb_cdc.c)
+  000025D6 0000000C .text   got_line_coding	(usb_cdc.c)
+  000025E2 000000E8 .text   usb_ep0_callback	(usb_cdc.c)
+  000026CA 0000002A .text   cdc_getch	(usb_cdc.c)
+  000026F4 00000014 .text   cdc_kbhit	(usb_cdc.c)
+  00002708 0000003A .text   cdc_putch	(usb_cdc.c)
+  00002742 0000002E .text   cdc_init	(usb_cdc.c)
+  00002770 00000136 .text   cdc_process	(usb_cdc.c)
+  000028A6 00000030 .text   usb_get_rx_pptr	(usb.c)
+  000028D6 000000CC .text   select_tx_buf	(usb.c)
+  000029A2 00000022 .text   usb_get_done	(usb.c)
+  000029C4 0000001A .text   usb_ep_is_busy	(usb.c)
+  000029DE 00000008 .text   usb_get_state	(usb.c)
+  000029E6 00000022 .text   usb_ep_error	(usb.c)
+  00002A08 0000003E .text   send_zero_packet	(usb.c)
+  00002A46 0000008C .text   usb_init	(usb.c)
+  00002AD2 0000026E .text   usb_setup_ep	(usb.c)
+  00002D40 000000CC .text   set_config	(usb.c)
+  00002E0C 0000006E .text   enter_default_state	(usb.c)
+  00002E7A 00000050 .text   usb_stop_ep_tx	(usb.c)
+  00002ECA 0000004E .text   usb_stop_ep_rx	(usb.c)
+  00002F18 0000006A .text   ready_ep_tx	(usb.c)
+  00002F82 0000006E .text   ready_ep_rx	(usb.c)
+  00002FF0 00000056 .text   disable_ep_tx	(usb.c)
+  00003046 0000000E .text   disable_ep_rx	(usb.c)
+  00003054 0000028C .text   _usb_send	(usb.c)
+  000032E0 000000DC .text   usb_send	(usb.c)
+  000033BC 000001EA .text   _usb_receive	(usb.c)
+  000035A6 000000F0 .text   usb_receive	(usb.c)
+  00003696 00000030 .text   cb_set_address	(usb.c)
+  000036C6 000003B2 .text   usb_stm_ctrl0	(usb.c)
+  00003A78 00000636 .text   USB_Handler	(usb.c)
+  000040AE 000000FC .text   USB_ISR	(usb.c)
+  000041AA 00000004 .text   mcf5xxx_byterev	(BRTOS_USB.c)
+  000041AE 00000008 .text   get_device_descriptor	(cdc_usb_config.c)
+  000041B6 0000000C .text   is_cfgd_index	(cdc_usb_config.c)
+  000041C2 00000008 .text   get_cfg_descriptor	(cdc_usb_config.c)
+  000041CA 0000000C .text   is_str_index	(cdc_usb_config.c)
+  000041D6 00000010 .text   get_str_descriptor	(cdc_usb_config.c)
+  000041E6 0000001C .text   is_ifc_ndx	(cdc_usb_config.c)
+  00004202 00000036 .text   is_ep_ndx	(cdc_usb_config.c)
+  00004238 00000030 .text   get_ep_descriptor	(cdc_usb_config.c)
+  00004268 00000040 .text   get_ep_rx_buffer	(cdc_usb_config.c)
+  000042A8 00000034 .text   usb_cfg_init	(cdc_usb_config.c)
+  000042DC 0000000E .text   enable_usb_pull_up	(cdc_usb_config.c)
+  000042EA 00000084 .text   NetSimpleCommand	(app.c)
+  0000436E 000000C0 .text   NetSimpleCommandXY	(app.c)
+  0000442E 00000028 .text   Radio_Count_states	(MRF24J40.c)
+  00004456 0000005E .text   Radio_port_Init	(MRF24J40.c)
+  000044B4 00000302 .text   MRF24J40Init	(MRF24J40.c)
+  000047B6 00000218 .text   MRF24J40Reset	(MRF24J40.c)
+  000049CE 0000004E .text   SetChannel	(MRF24J40.c)
+  00004A1C 00000008 .text   GetChannel	(MRF24J40.c)
+  00004A24 0000001A .text   SetRxChannel	(MRF24J40.c)
+  00004A3E 00000016 .text   GetAllowedChannels	(MRF24J40.c)
+  00004A54 0000004A .text   SetTxPower	(MRF24J40.c)
+  00004A9E 00000070 .text   PHYSetLongRAMAddr	(MRF24J40.c)
+  00004B0E 0000004A .text   PHYSetShortRAMAddr	(MRF24J40.c)
+  00004B58 00000046 .text   PHYGetShortRAMAddr	(MRF24J40.c)
+  00004B9E 00000064 .text   PHYGetLongRAMAddr	(MRF24J40.c)
+  00004C02 00000002 .text   PHYSetAutoACK	(MRF24J40.c)
+  00004C04 00000114 .text   Radio_Interrupt	(MRF24J40.c)
+  00004D18 00000036 .text   SPI_Init	(SPI.c)
+  00004D4E 00000038 .text   SPI_SendChar	(SPI.c)
+  00004D86 00000010 .text   SPI_Get	(SPI.c)
+  00004D96 00000006 .text   _Entry	(usr_entry.c)
+  00004D9C 00000068 .text   diferenca_ang_taxicab	(gpsr.c)
+  00004E04 00000174 .text   ang_taxicab	(gpsr.c)
+  00004F78 00000034 .text   ReverseByte	(mac.c)
+  00004FAC 00000042 .text   MAC_BeaconVerify	(mac.c)
+  00004FEE 0000030C .text   MAC_Command	(mac.c)
+  000052FA 00000118 .text   MAC_Beacon	(mac.c)
+  00005412 00000146 .text   MAC_Response	(mac.c)
+  00005558 00000044 .text   RadioRand	(mac.c)
+  0000559C 00000032 .text   CRC_Update	(mac.c)
+  000055CE 00000036 .text   CRC_Get	(mac.c)
+  00005604 00000010 .text   acquireRadio	(network.c)
+  00005614 00000010 .text   releaseRadio	(network.c)
+  00005624 00000018 .text   init_radio_resource	(network.c)
+  0000563C 000002DC .text   NeighborPing	(network.c)
+  00005918 0000017E .text   GPSAddressMessageToMAC	(network.c)
+  00005A96 0000007E .text   VerifyPacketReplicated	(network.c)
+  00005B14 00000062 .text   VerifyNeighbourhoodLastIDTimeout	(network.c)
+  00005B76 00000168 .text   VerifyNeighbourhood	(network.c)
+  00005CDE 00000010 .text   IncDepthWatchdog	(network.c)
+  00005CEE 00000008 .text   ClearDepthWatchdog	(network.c)
+  00005CF6 000005F8 .text   UpdateBaseStation	(network.c)
+  000062EE 00000284 .text   HandleNewNeighborPing	(network.c)
+  00006572 00000450 .text   NWK_Command	(network.c)
+  000069C2 00000312 .text   HandleRoutePacket	(network.c)
+  00006CD4 00000166 .text   UpBroadcastRoute	(network.c)
+  00006E3A 000008D8 .text   UpRoute	(network.c)
+  00007712 00000040 .text   EEPROM_Store	(FL_eeprom.c)
+  00007752 00000010 .text   IncGPSNET_NodeStat_apptxed	(gpsnet_core.c)
+  00007762 000000F0 .text   GPSNET_Init	(gpsnet_core.c)
+  00007852 0000019A .text   BRTOS_TimerHook	(gpsnet_core.c)
+  000079EC 0000005A .text   GPSNET_APP	(gpsnet_core.c)
+  00007A46 000004C4 .text   GPSNET_NWK	(gpsnet_core.c)
+  00007F0A 00000020 .text   RFBufferClean	(gpsnet_core.c)
+  00007F2A 00000C68 .text   GPSNET_MAC	(gpsnet_core.c)
+  00008B92 00000260 .text   GPSNET_RF_Event	(gpsnet_core.c)
+  00008DF2 00000048 .text   search_cmd	(comm2pc.c)
+  00008E3A 00000014 .text   USB_putchar	(comm2pc.c)
+  00008E4E 0000001C .text   USB_print	(comm2pc.c)
+  00008E6A 000000D6 .text   Comm2PC_FSM	(comm2pc.c)
+  00008F40 0000003E .text   CMD_ERR	(comm2pc.c)
+  00008F7E 000000E4 .text   CMD_WHO	(comm2pc.c)
+  00009062 00000018 .text   CMD_SEND	(comm2pc.c)
+  0000907A 00000042 .text   CMD_HELP	(comm2pc.c)
+  000090BC 0000006E .text   CMD_M64	(comm2pc.c)
+  0000912A 00000072 .text   CMD_M16	(comm2pc.c)
+  0000919C 00000072 .text   CMD_getAddr	(comm2pc.c)
+  0000920E 0000002E .text   CMD_setAddr	(comm2pc.c)
+  0000923C 00000080 .text   CMD_C_ON	(comm2pc.c)
+  000092BC 00000080 .text   CMD_C_OFF	(comm2pc.c)
+  0000933C 00000032 .text   RequestGPSAddress	(comm2pc.c)
+  0000936E 00000088 .text   CMD_CPU	(comm2pc.c)
+  000093F6 00000096 .text   CMD_SNIF	(comm2pc.c)
+  0000948C 00000042 .text   CMD_LSNIF	(comm2pc.c)
+  000094CE 0000005A .text   CMD_VER	(comm2pc.c)
+  00009528 000000BA .text   CMD_UPT	(comm2pc.c)
+  000095E2 00000042 .text   CMD_LED	(comm2pc.c)
+  00009624 0000011A .text   CMD_GAS	(comm2pc.c)
+  0000973E 000002CC .text   CMD_NGB	(comm2pc.c)
+  00009A0A 0000007E .text   CMD_NNB	(comm2pc.c)
+  00009A88 00000106 .text   CMD_RPK	(comm2pc.c)
+  00009B8E 000001FA .text   SendPacketToQueue	(comm2pc.c)
+  00009D88 00000102 .text   CMD_POWL	(comm2pc.c)
+  00009E8A 000001E2 .text   CMD_SETPOS	(comm2pc.c)
+  0000A06C 0000011C .text   CMD_CHAN	(comm2pc.c)
+  0000A188 000000EA .text   CMD_CFG_PARAM	(comm2pc.c)
+  0000A272 00000148 .text   CMD_FOTA	(Bootloader_serial.c)
+  0000A3BA 0000011E .text   CMD_FOTA_ADR	(Bootloader_serial.c)
+  0000A4D8 00000072 .text   CMD_STORE_FIRMWARE	(Bootloader_serial.c)
+  0000A54A 0000007C .text   CMD_ERASE_FLASH	(Bootloader_serial.c)
+  0000A5C6 0000023A .text   GPSNET_FOTA_Task	(Bootloader_serial.c)
+  0000A800 000000BA .text   Data_receive	(Bootloader_serial.c)
+  0000A8BA 000000BA .text   NetSimpledataXY	(Bootloader_serial.c)
+  0000A974 00000578 .text   Bootloader_FSM	(Bootloader_serial.c)
+  0000AEEC 00000032 .text   polydiv	(Bootloader_serial.c)
+  0000AF1E 00000040 .text   gera_crc	(Bootloader_serial.c)
+  0000AF60 0000000C .rodata @289	(main.c)
+  0000AF6C 0000000D .rodata @290	(main.c)
+  0000AF79 00000013 .rodata @291	(main.c)
+  0000AF8C 0000000D .rodata @320	(tasks.c)
+  0000AF99 0000000B .rodata @321	(tasks.c)
+  0000AFA4 00000004 .rodata string_descriptor0	(cdc_usb_config.c)
+  0000AFA8 0000001A .rodata str_manufacturer	(cdc_usb_config.c)
+  0000AFC2 0000002C .rodata str_config	(cdc_usb_config.c)
+  0000AFEE 00000008 .rodata str_interface1	(cdc_usb_config.c)
+  0000AFF6 00000012 .rodata str_interface2	(cdc_usb_config.c)
+  0000B008 0000000A .rodata str_serail_number	(cdc_usb_config.c)
+  0000B012 00000046 .rodata str_product	(cdc_usb_config.c)
+  0000B058 0000001C .rodata usb_string_descriptors	(cdc_usb_config.c)
+  0000B074 00000012 .rodata usb_device_descriptor	(cdc_usb_config.c)
+  0000B086 00000043 .rodata usb_config_descriptor	(cdc_usb_config.c)
+  0000B0C9 00000004 .rodata ALLOWED_CHAN_TABLE	(MRF24J40.c)
+  0000B0CE 00000200 .rodata ccitt_crc16_table	(mac.c)
+  0000B2CE 00000011 .rodata @253	(gpsnet_core.c)
+  0000B2DF 00000010 .rodata @254	(gpsnet_core.c)
+  0000B2EF 00000010 .rodata @255	(gpsnet_core.c)
+  0000B300 000000D0 .rodata cmds	(comm2pc.c)
+  0000B3D0 00000010 .rodata @787	(comm2pc.c)
+  0000B3E0 00000013 .rodata @788	(comm2pc.c)
+#>0000B3F4          ___ROM_AT (linker command file)
+#>0000B3F4          ___DATA_ROM (linker command file)
+
+# .usb_ram
+#>00800200          __BDT_BASE (linker command file)
+#>00800400          __BDT_END (linker command file)
+
+# .data
+#>00800400          ___DATA_RAM (linker command file)
+#>00800400          __exception_table_start__ (linker command file)
+# Exception index
+  00800400 00000000         Exception Table Index	()
+#>00800400          __exception_table_end__ (linker command file)
+#>00800400          ___sinit__ (linker command file)
+# Linker generated symbols
+  00800400 00000004         static initializer	(linker generated)
+#>00800404          __START_DATA (linker command file)
+  00800404 00000007 .data   line_coding	(usb_cdc.c)
+  0080040B 00000001 .data   currentRxChannel	(MRF24J40.c)
+  0080040C 00000001 .data   currentTxChannel	(MRF24J40.c)
+  0080040D 00000001 .data   currentTxPower	(MRF24J40.c)
+  0080040E 00000002 .data   macPANId	(mac.c)
+  00800410 00000001 .data   RouterCapacity	(mac.c)
+  00800411 00000001 .data   SequenceNumber	(mac.c)
+  00800412 00000001 .data   BaseCnt	(network.c)
+  00800413 00000001 .data   BetterDepth	(network.c)
+  00800414 00000002 .data   NeighborPingTimeV	(network.c)
+  00800416 00000002 .data   RadioWatchdog	(network.c)
+  00800418 00000001 .data   NeighborPingTimeCnt	(network.c)
+  00800419 00000001 .data   App_SeqNumber	(network.c)
+  0080041C 00000004 .data   StackAddress	(BRTOS.c)
+  00800420 00000004 .data   OSBlockedList	(BRTOS.c)
+  00800424 00000190 .data   ISR_STACK	(HAL.c)
+  008005B4 00000004 .data   SPvalue_bkp	(HAL.c)
+  008005B8 00000002 .data   node_id_received	(comm2pc.c)
+  008005BC 00000004 .data   endereco	(Bootloader_serial.c)
+  008005C0 00000002 .data   crc_codigo2	(Bootloader_serial.c)
+  008005C2 00000002 .data   CRC16	(Bootloader_serial.c)
+  008005C4 00000002 .data   crc_codigo	(Bootloader_serial.c)
+#>008005C8          __END_DATA (linker command file)
+#>008005C8          __START_SDATA (linker command file)
+#>008005C8          __END_SDATA (linker command file)
+#>008005C8          ___DATA_END (linker command file)
+#>008005C8          __SDA_BASE (linker command file)
+
+# .bss
+#>008005C8          ___BSS_START (linker command file)
+#>008005C8          __START_SBSS (linker command file)
+#>008005C8          __END_SBSS (linker command file)
+#>008005C8          __START_BSS (linker command file)
+  008005C8 00000002 .bss    uart_state	(usb_cdc.c)
+  008005CA 00000001 .bss    ctrl_line_state	(usb_cdc.c)
+  008005CB 00000001 .bss    new_line_coding	(usb_cdc.c)
+  008005CC 00000001 .bss    tx_ndx	(usb_cdc.c)
+  008005D0 00000020 .bss    tx_buffer2	(usb_cdc.c)
+  008005F0 00000020 .bss    tx_buffer1	(usb_cdc.c)
+  00800610 00000004 .bss    cur_tx_buffer	(usb_cdc.c)
+  00800614 00000001 .bss    rx_ndx	(usb_cdc.c)
+  00800615 00000001 .bss    rx_length	(usb_cdc.c)
+  00800618 00000020 .bss    rx_buffer	(usb_cdc.c)
+  00800638 00000240 .bss    ep_info	(usb.c)
+  00800878 00000001 .bss    new_address	(usb.c)
+  00800879 00000001 .bss    usb_state	(usb.c)
+  0080087A 00000001 .bss    usb_current_config	(usb.c)
+  0080087C 00000004 .bss    USB_Sem	(usb.c)
+  00800880 00000020 .bss    buf_ep31	(cdc_usb_config.c)
+  008008A0 00000020 .bss    buf_ep30	(cdc_usb_config.c)
+  008008C0 00000008 .bss    buf_ep01	(cdc_usb_config.c)
+  008008C8 00000008 .bss    buf_ep00	(cdc_usb_config.c)
+  008008D0 00000010 .bss    Radio_State_Counter	(MRF24J40.c)
+  008008E0 00000001 .bss    SPIData	(SPI.c)
+  008008E2 00000002 .bss    macAddr	(mac.c)
+  008008E4 00000001 .bss    macACK	(mac.c)
+  008008E5 00000001 .bss    BeaconCnt	(mac.c)
+  008008E6 00000002 .bss    FrameCRC	(mac.c)
+  008008E8 00000001 .bss    mac_tasks_pending	(mac.c)
+  008008EA 00000010 .bss    gpsnet_beacon	(mac.c)
+  008008FA 00000092 .bss    gpsnet_packet	(mac.c)
+  0080098C 00000002 .bss    mac_frame_control	(mac.c)
+  0080098E 00000008 .bss    AssociateAddress	(mac.c)
+  00800996 00000002 .bss    NeighborTable	(network.c)
+  00800998 00000001 .bss    NearBase	(network.c)
+  0080099A 00000002 .bss    DepthWatchdog	(network.c)
+  0080099C 00000001 .bss    nwk_tasks_pending	(network.c)
+  008009A0 00000004 .bss    Radio_IEEE802	(network.c)
+  008009A4 00000053 .bss    NWKPayload	(network.c)
+  008009F8 00000004 .bss    dst_gps_longitude	(network.c)
+  008009FC 00000004 .bss    dst_gps_latitude	(network.c)
+  00800A00 00000004 .bss    gps_longitude	(network.c)
+  00800A04 00000004 .bss    gps_latitude	(network.c)
+  00800A08 000000B8 .bss    gpsnet_neighbor_ping	(network.c)
+  00800AC0 00000078 .bss    BaseStations	(network.c)
+  00800B38 00000180 .bss    gpsnet_neighbourhood	(network.c)
+  00800CB8 00000002 .bss    iStackAddress	(BRTOS.c)
+  00800CBA 00000002 .bss    iQueueAddress	(BRTOS.c)
+  00800CBC 00000004 .bss    OSReadyList	(BRTOS.c)
+  00800CC0 00000002 .bss    LastOSDuty	(BRTOS.c)
+  00800CC4 00000004 .bss    TaskAlloc	(BRTOS.c)
+  00800CC8 00000001 .bss    iNesting	(BRTOS.c)
+  00800CCC 00000120 .bss    ContextTask	(BRTOS.c)
+  00800DEC 00000C00 .bss    QUEUE_STACK	(BRTOS.c)
+  008019EC 00001C00 .bss    STACK	(BRTOS.c)
+  008035EC 00000030 .bss    BRTOS_Queue_Table	(BRTOS.c)
+  0080361C 00000018 .bss    BRTOS_Mbox_Table	(BRTOS.c)
+  00803634 00000030 .bss    BRTOS_Mutex_Table	(BRTOS.c)
+  00803664 00000050 .bss    BRTOS_Sem_Table	(BRTOS.c)
+  008036B4 00000004 .bss    Head	(BRTOS.c)
+  008036B8 00000004 .bss    Tail	(BRTOS.c)
+  008036BC 00000002 .bss    OSTickCounter	(BRTOS.c)
+  008036BE 00000001 .bss    SelectedTask	(BRTOS.c)
+  008036BF 00000001 .bss    currentTask	(BRTOS.c)
+  008036C0 00000001 .bss    NumberOfInstalledTasks	(BRTOS.c)
+  008036C1 00000020 .bss    PriorityVector	(BRTOS.c)
+  008036E2 00000004 .bss    Data	(OS_RTC.c)
+  008036E6 00000003 .bss    Hora	(OS_RTC.c)
+  008036EC 00000004 .bss    SPvalue	(HAL.c)
+  008036F0 00000004 .bss    FnCmdInRam	(flash.c)
+  008036F4 00000030 .bss    CmdInRam	(flash.c)
+  00803724 0000001C .bss    GPSNET_NodeStat	(gpsnet_core.c)
+  00803740 00000002 .bss    StatTimer	(gpsnet_core.c)
+  00803742 00000002 .bss    AssociateTimeout	(gpsnet_core.c)
+  00803744 00000002 .bss    NeighborCnt	(gpsnet_core.c)
+  00803748 00000004 .bss    NeighbourhoodCnt	(gpsnet_core.c)
+  0080374C 00000004 .bss    App1_event	(gpsnet_core.c)
+  00803750 00000004 .bss    MAC_Event	(gpsnet_core.c)
+  00803754 00000004 .bss    RF_TX_Event	(gpsnet_core.c)
+  00803758 00000004 .bss    RF_RX_Event	(gpsnet_core.c)
+  0080375C 00000004 .bss    RF_Event	(gpsnet_core.c)
+  00803760 00000004 .bss    RF	(gpsnet_core.c)
+  00803764 00000014 .bss    RFBuffer	(gpsnet_core.c)
+  00803778 00000004 .bss    GPS_X	(comm2pc.c)
+  0080377C 00000004 .bss    GPS_Y	(comm2pc.c)
+  00803780 00000004 .bss    GPS_X_tmp	(comm2pc.c)
+  00803784 00000004 .bss    GPS_Y_tmp	(comm2pc.c)
+  00803788 00000002 .bss    node_id_received_tmp	(comm2pc.c)
+  0080378A 00000001 .bss    PacketsCnt	(comm2pc.c)
+  0080378C 00000002 .bss    command	(comm2pc.c)
+  0080378E 00000001 .bss    SMIndex	(comm2pc.c)
+  0080378F 00000001 .bss    cmdIndex	(comm2pc.c)
+  00803790 00000001 .bss    currentstate	(comm2pc.c)
+  00803791 00000001 .bss    pl	(comm2pc.c)
+  00803792 00000001 .bss    param_config	(comm2pc.c)
+  00803793 00000001 .bss    param_val	(comm2pc.c)
+  00803794 00000004 .bss    Pkt	(comm2pc.c)
+  00803798 00000014 .bss    PacketsBuffer	(comm2pc.c)
+  008037AC 0000000A .bss    new_position	(comm2pc.c)
+  008037B6 00000001 .bss    estado_bootloader	(Bootloader_serial.c)
+  008037B7 00000001 .bss    confirma_rede	(Bootloader_serial.c)
+  008037B8 00000001 .bss    Bootloader_ForceStop	(Bootloader_serial.c)
+  008037BA 00000002 .bss    crc_received2	(Bootloader_serial.c)
+  008037BC 00000002 .bss    crc_received	(Bootloader_serial.c)
+  008037BE 00000002 .bss    boot_node_id	(Bootloader_serial.c)
+  008037C0 00000004 .bss    GPS_X_tmp	(Bootloader_serial.c)
+  008037C4 00000004 .bss    GPS_Y_tmp	(Bootloader_serial.c)
+  008037C8 00000001 .bss    @LOCAL@CMD_FOTA__FUc@index	(Bootloader_serial.c)
+  008037C9 00000001 .bss    @LOCAL@CMD_FOTA_ADR__FUc@index	(Bootloader_serial.c)
+  008037CA 00000002 .bss    @LOCAL@GPSNET_FOTA_Task__Fv@linhas	(Bootloader_serial.c)
+  008037CC 00000002 .bss    @LOCAL@GPSNET_FOTA_Task__Fv@linhas2@0	(Bootloader_serial.c)
+  008037CE 00000001 .bss    @LOCAL@Bootloader_FSM__FUc@p	(Bootloader_serial.c)
+  008037D0 00000004 .bss    Bootloader_end	(Bootloader_serial.c)
+  008037D4 00000004 .bss    Bootloader_Event	(Bootloader_serial.c)
+  008037D8 00000004 .bss    Confirma	(Bootloader_serial.c)
+  008037DC 00000048 .bss    structured_data	(Bootloader_serial.c)
+  00803824 00000048 .bss    data_checksum	(Bootloader_serial.c)
+  0080386C 00000004 .bss    checksum_add	(Bootloader_serial.c)
+  00803870 00000001 .bss    checksum	(Bootloader_serial.c)
+  00803871 00000001 .bss    length	(Bootloader_serial.c)
+  00803872 00000001 .bss    comp	(Bootloader_serial.c)
+  00803873 00000001 .bss    comprimento	(Bootloader_serial.c)
+  00803874 00000002 .bss    CRC_CODIGO_162	(Bootloader_serial.c)
+  00803876 00000002 .bss    CRC_CODIGO_16	(Bootloader_serial.c)
+  00803878 00000004 .bss    __global_destructor_chain	(librt.a cf_staticinitia)
+#>0080387C          __END_BSS (linker command file)
+#>0080387C          ___BSS_END (linker command file)
+
+# .custom
+#>0080387C          ___HEAP_START (linker command file)
+#>0080387C          ___heap_addr (linker command file)
+#>0080387C          ___HEAP_END (linker command file)
+#>0080387C          ___SP_END (linker command file)
+#>0080397C          ___SP_INIT (linker command file)
+#>0080387C          ___mem_limit (linker command file)
+#>00000010          ___stack_safety (linker command file)
+#>0080397C          __SP_INIT (linker command file)
+#>0080397C          ___SP_AFTER_RESET (linker command file)
+#>0000B5BC          _romp_at (linker command file)
+
+# .romp
+#>0000B5BC          __S_romp (linker command file)
+
+
+# Memory map:
+  v_addr   p_addr   size     name
+  00000000 00000000 00000004 .abs_vector_0 abs_vector_0
+  00000004 00000004 00000004 .abs_vector_1 abs_vector_1
+  00000008 00000008 00000004 .abs_vector_2 abs_vector_2
+  0000000C 0000000C 00000004 .abs_vector_3 abs_vector_3
+  00000010 00000010 00000004 .abs_vector_4 abs_vector_4
+  00000014 00000014 00000004 .abs_vector_5 abs_vector_5
+  00000018 00000018 00000004 .abs_vector_6 abs_vector_6
+  0000001C 0000001C 00000004 .abs_vector_7 abs_vector_7
+  00000020 00000020 00000004 .abs_vector_8 abs_vector_8
+  00000024 00000024 00000004 .abs_vector_9 abs_vector_9
+  00000028 00000028 00000004 .abs_vector_10 abs_vector_10
+  0000002C 0000002C 00000004 .abs_vector_11 abs_vector_11
+  00000030 00000030 00000004 .abs_vector_12 abs_vector_12
+  00000034 00000034 00000004 .abs_vector_13 abs_vector_13
+  00000038 00000038 00000004 .abs_vector_14 abs_vector_14
+  0000003C 0000003C 00000004 .abs_vector_15 abs_vector_15
+  00000040 00000040 00000004 .abs_vector_16 abs_vector_16
+  00000044 00000044 00000004 .abs_vector_17 abs_vector_17
+  00000048 00000048 00000004 .abs_vector_18 abs_vector_18
+  0000004C 0000004C 00000004 .abs_vector_19 abs_vector_19
+  00000050 00000050 00000004 .abs_vector_20 abs_vector_20
+  00000054 00000054 00000004 .abs_vector_21 abs_vector_21
+  00000058 00000058 00000004 .abs_vector_22 abs_vector_22
+  0000005C 0000005C 00000004 .abs_vector_23 abs_vector_23
+  00000060 00000060 00000004 .abs_vector_24 abs_vector_24
+  00000064 00000064 00000004 .abs_vector_25 abs_vector_25
+  00000068 00000068 00000004 .abs_vector_26 abs_vector_26
+  0000006C 0000006C 00000004 .abs_vector_27 abs_vector_27
+  00000070 00000070 00000004 .abs_vector_28 abs_vector_28
+  00000074 00000074 00000004 .abs_vector_29 abs_vector_29
+  00000078 00000078 00000004 .abs_vector_30 abs_vector_30
+  0000007C 0000007C 00000004 .abs_vector_31 abs_vector_31
+  00000080 00000080 00000004 .abs_vector_32 abs_vector_32
+  00000084 00000084 00000004 .abs_vector_33 abs_vector_33
+  00000088 00000088 00000004 .abs_vector_34 abs_vector_34
+  0000008C 0000008C 00000004 .abs_vector_35 abs_vector_35
+  00000090 00000090 00000004 .abs_vector_36 abs_vector_36
+  00000094 00000094 00000004 .abs_vector_37 abs_vector_37
+  00000098 00000098 00000004 .abs_vector_38 abs_vector_38
+  0000009C 0000009C 00000004 .abs_vector_39 abs_vector_39
+  000000A0 000000A0 00000004 .abs_vector_40 abs_vector_40
+  000000A4 000000A4 00000004 .abs_vector_41 abs_vector_41
+  000000A8 000000A8 00000004 .abs_vector_42 abs_vector_42
+  000000AC 000000AC 00000004 .abs_vector_43 abs_vector_43
+  000000B0 000000B0 00000004 .abs_vector_44 abs_vector_44
+  000000B4 000000B4 00000004 .abs_vector_45 abs_vector_45
+  000000B8 000000B8 00000004 .abs_vector_46 abs_vector_46
+  000000BC 000000BC 00000004 .abs_vector_47 abs_vector_47
+  000000C0 000000C0 00000004 .abs_vector_48 abs_vector_48
+  000000C4 000000C4 00000004 .abs_vector_49 abs_vector_49
+  000000C8 000000C8 00000004 .abs_vector_50 abs_vector_50
+  000000CC 000000CC 00000004 .abs_vector_51 abs_vector_51
+  000000D0 000000D0 00000004 .abs_vector_52 abs_vector_52
+  000000D4 000000D4 00000004 .abs_vector_53 abs_vector_53
+  000000D8 000000D8 00000004 .abs_vector_54 abs_vector_54
+  000000DC 000000DC 00000004 .abs_vector_55 abs_vector_55
+  000000E0 000000E0 00000004 .abs_vector_56 abs_vector_56
+  000000E4 000000E4 00000004 .abs_vector_57 abs_vector_57
+  000000E8 000000E8 00000004 .abs_vector_58 abs_vector_58
+  000000EC 000000EC 00000004 .abs_vector_59 abs_vector_59
+  000000F0 000000F0 00000004 .abs_vector_60 abs_vector_60
+  000000F4 000000F4 00000004 .abs_vector_61 abs_vector_61
+  000000F8 000000F8 00000004 .abs_vector_62 abs_vector_62
+  000000FC 000000FC 00000004 .abs_vector_63 abs_vector_63
+  00000100 00000100 00000004 .abs_vector_64 abs_vector_64
+  00000104 00000104 00000004 .abs_vector_65 abs_vector_65
+  00000108 00000108 00000004 .abs_vector_66 abs_vector_66
+  0000010C 0000010C 00000004 .abs_vector_67 abs_vector_67
+  00000110 00000110 00000004 .abs_vector_68 abs_vector_68
+  00000114 00000114 00000004 .abs_vector_69 abs_vector_69
+  00000118 00000118 00000004 .abs_vector_70 abs_vector_70
+  0000011C 0000011C 00000004 .abs_vector_71 abs_vector_71
+  00000120 00000120 00000004 .abs_vector_72 abs_vector_72
+  00000124 00000124 00000004 .abs_vector_73 abs_vector_73
+  00000128 00000128 00000004 .abs_vector_74 abs_vector_74
+  0000012C 0000012C 00000004 .abs_vector_75 abs_vector_75
+  00000130 00000130 00000004 .abs_vector_76 abs_vector_76
+  00000134 00000134 00000004 .abs_vector_77 abs_vector_77
+  00000138 00000138 00000004 .abs_vector_78 abs_vector_78
+  0000013C 0000013C 00000004 .abs_vector_79 abs_vector_79
+  00000140 00000140 00000004 .abs_vector_80 abs_vector_80
+  00000144 00000144 00000004 .abs_vector_81 abs_vector_81
+  00000148 00000148 00000004 .abs_vector_82 abs_vector_82
+  0000014C 0000014C 00000004 .abs_vector_83 abs_vector_83
+  00000150 00000150 00000004 .abs_vector_84 abs_vector_84
+  00000154 00000154 00000004 .abs_vector_85 abs_vector_85
+  00000158 00000158 00000004 .abs_vector_86 abs_vector_86
+  0000015C 0000015C 00000004 .abs_vector_87 abs_vector_87
+  00000160 00000160 00000004 .abs_vector_88 abs_vector_88
+  00000164 00000164 00000004 .abs_vector_89 abs_vector_89
+  00000168 00000168 00000004 .abs_vector_90 abs_vector_90
+  0000016C 0000016C 00000004 .abs_vector_91 abs_vector_91
+  00000170 00000170 00000004 .abs_vector_92 abs_vector_92
+  00000174 00000174 00000004 .abs_vector_93 abs_vector_93
+  00000178 00000178 00000004 .abs_vector_94 abs_vector_94
+  0000017C 0000017C 00000004 .abs_vector_95 abs_vector_95
+  00000180 00000180 00000004 .abs_vector_96 abs_vector_96
+  00000184 00000184 00000004 .abs_vector_97 abs_vector_97
+  00000188 00000188 00000004 .abs_vector_98 abs_vector_98
+  0000018C 0000018C 00000004 .abs_vector_99 abs_vector_99
+  00000190 00000190 00000004 .abs_vector_100 abs_vector_100
+  00000194 00000194 00000004 .abs_vector_101 abs_vector_101
+  00000198 00000198 00000004 .abs_vector_102 abs_vector_102
+  0000019C 0000019C 00000004 .abs_vector_103 abs_vector_103
+  000001A0 000001A0 00000004 .abs_vector_104 abs_vector_104
+  000001A4 000001A4 00000004 .abs_vector_105 abs_vector_105
+  000001A8 000001A8 00000004 .abs_vector_106 abs_vector_106
+  000001AC 000001AC 00000004 .abs_vector_107 abs_vector_107
+  000001B0 000001B0 00000004 .abs_vector_108 abs_vector_108
+  000001B4 000001B4 00000004 .abs_vector_109 abs_vector_109
+  000001B8 000001B8 00000004 .abs_vector_110 abs_vector_110
+  0000040D 0000040D 00000001 .abs_NVPROT_INIT abs_NVPROT_INIT
+  0000040F 0000040F 00000001 .abs_NVOPT_INIT abs_NVOPT_INIT
+  00000410 00000410 00000008 .abs__UserEntry abs__UserEntry
+  00001FF0 00001FF0 00000008 .abs_mac64Address abs_mac64Address
+  00002000 00002000 000001BC .abs_RAM_vector abs_RAM_vector
+  0001FC00 0001FC00 00000004 .abs_Latitude abs_Latitude
+  0001FC04 0001FC04 00000004 .abs_Longitude abs_Longitude
+  00000420 00000420 00000000 .bootcode  bootcode
+  00000420 00000420 00001A2C .bootcodes bootcode
+  00002200 00002200 00000000 .code      code
+  00002200 00002200 000091F4 .text      code
+  00800000 00800000 00000200            vectorram
+  00800200 00800200 00000000 .bdtram    bdtram
+  00800200 00800200 00000000 .usb_ram   bdtram
+  00800400 00800400 00000000 .userram   userram
+  00800400 0000B3F4 000001C8 .data      userram
+  008005C8 008005C8 000032B4 .bss       userram
+  0080387C 0080387C 00000000 .custom    userram
+  0080387C 0000B5BC 00000018 .romp      userram
+
+# Link start time: Thu Oct 22 11:01:24 2015
+# Link end time: Thu Oct 22 11:01:25 2015

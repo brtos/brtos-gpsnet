@@ -1,0 +1,31 @@
+1) Os projetos estão contidos nas pastas iniciadas com C_ e CS_.
+
+2) Os projetos embarcados (iniciados com C_) são compostos pelos seguintes módulos:
+
+BRTOS: sistema operacional
+GPSNET: pilha de protocolos da rede
+DRIVERS: drivers de periféricos
+APPS: códigos de aplicações
+
+3) Estes módulos são referenciados pelo arquivo de projeto específico "*.mcp" e possuem códigos independentes de plataforma que podem ser utilizados em qualquer projeto.
+
+4) O objetivo é que as pastas dos projetos contenham apenas arquivos de código (.c e .h) que sejam específicos e não possam ser reutilizados entre outros projetos.
+
+5) É obrigatório que cada projeto tenha um diretório "CONFIG", com os seguintes arquivos de configuração:
+
+BRTOSConfig.h: com as configurações do Sist. Oper. BRTOS
+BoardConfig.h: que será importado pelos módulos nos casos onde se necessita das configurações da plataforma. 
+NetConfig.h: com as configurações para funcionamento da rede de comunicação GPSNET
+AppConfig.h: com as configurações das "apps" utilizadas no projeto
+
+6) Diagrama de hierarquia das aplicações:
+
++++++++++++++++ 
+APPS --> GPSNET
+++++++++++++++	
+    BRTOS 
++++++++++++++++
+   DRIVERS
++++++++++++++++
+
+

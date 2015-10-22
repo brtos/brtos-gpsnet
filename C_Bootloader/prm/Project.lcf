@@ -1,0 +1,199 @@
+# Sample Linker Command File for CodeWarrior for ColdFire MCF51JM128
+
+# Memory ranges
+
+MEMORY {
+   bootcode    (RX)  : ORIGIN = 0x00000420, LENGTH = 0x00001BE0
+   #code       (RX)  : ORIGIN = 0x00002000, LENGTH = 0x00000200   // flags and constants
+   code        (RX)  : ORIGIN = 0x00002200, LENGTH = 0x0001CE00
+   vectorram   (RWX) : ORIGIN = 0x00800000, LENGTH = 0x00000200
+   bdtram      (RWX) : ORIGIN = 0x00800200, LENGTH = 0x00000200
+   userram     (RWX) : ORIGIN = 0x00800400, LENGTH = 0x00003C00
+}
+
+SECTIONS {
+
+  __IPSBAR  =  0xFFFF8000;
+  __VECTOR_TABLE_BASE = 0;
+
+# Heap and Stack sizes definition
+  ___heap_size     = 0x0000;
+  ___stack_size    = 0x0100;
+  ___usb_size      = 0x0200;
+
+# MCF51JM128 Derivative Memory map definitions from linker command files:
+# ___RAM_ADDRESS, ___RAM_SIZE, ___FLASH_ADDRESS, ___FLASH_SIZE linker
+# symbols must be defined in the linker command file.
+
+# 16 Kbytes Internal SRAM
+   ___RAM_ADDRESS = 0x00800000;
+   ___RAM_SIZE    = 0x00004000;
+
+# 128 KByte Internal Flash Memory
+   ___FLASH_ADDRESS  = 0x00000000;
+   ___FLASH_SIZE     = 0x00020000;
+
+  .bdtram	: {} > bdtram
+  .userram        : {} > userram
+  
+  .bootcode : {} > bootcode
+  
+  .bootcodes:
+  {
+    ___Boot_START = .;
+    startcf.c (.text)
+    . = ALIGN (0x4);
+    startcf.c (.rodata)
+    . = ALIGN (0x4);
+
+    librt.a (.text)
+    . = ALIGN (0x4);
+    librt.a (.rodata)
+    . = ALIGN (0x4);
+
+    BRTOS.c (.text)
+    . = ALIGN (0x4);
+    BRTOS.c (.rodata)
+    . = ALIGN (0x4);
+    
+    HAL.c (.text)
+    . = ALIGN (0x4);
+    HAL.c (.rodata)
+    . = ALIGN (0x4);    
+    
+    mbox.c (.text)
+    . = ALIGN (0x4);
+    mbox.c (.rodata)
+    . = ALIGN (0x4);
+
+    mutex.c (.text)
+    . = ALIGN (0x4);
+    mutex.c (.rodata)
+    . = ALIGN (0x4);        
+    
+    OS_RTC.c (.text)
+    . = ALIGN (0x4);
+    OS_RTC.c (.rodata)    
+    . = ALIGN (0x4);    
+
+    queue.c (.text)
+    . = ALIGN (0x4);
+    queue.c (.rodata)    
+    . = ALIGN (0x4);            
+    
+    semaphore.c (.text)
+    . = ALIGN (0x4);
+    semaphore.c (.rodata)    
+    . = ALIGN (0x4);                
+    
+    flash.c (.text)
+    . = ALIGN (0x4);
+    flash.c (.rodata)    
+    . = ALIGN (0x4);     
+    
+    ___Boot_END =.;    
+  } >> bootcode      
+  
+  
+  .code     : {} > code
+  .text :
+  {
+    *(.text)
+    . = ALIGN (0x4);
+    *(.rodata)
+    . = ALIGN (0x4);
+    ___ROM_AT = .;
+    ___DATA_ROM = .;
+  } >> code
+
+  .usb_ram :
+  {  
+    /* Buffer descriptor base address
+    shall be aligned to 512 byte boundary.
+    Size shall be 512 bytes. */
+      
+      __BDT_BASE		  = .;
+      __BDT_END       = __BDT_BASE + ___usb_size;
+      . = ALIGN (0x200);      
+  } >> bdtram  
+
+  .data : AT(___ROM_AT)
+  {
+    ___DATA_RAM = .;
+    . = ALIGN(0x4);
+    *(.exception)
+    . = ALIGN(0x4);
+    __exception_table_start__ = .;
+    EXCEPTION
+    __exception_table_end__ = .;
+
+    ___sinit__ = .;
+      STATICINIT
+    __START_DATA = .;
+
+    *(.data)
+    . = ALIGN (0x4);
+    __END_DATA = .;
+
+    __START_SDATA = .;
+    *(.sdata)
+    . = ALIGN (0x4);
+    __END_SDATA = .;
+
+    ___DATA_END = .;
+    __SDA_BASE = .;
+    . = ALIGN (0x4);
+  } >> userram
+
+  .bss :
+  {
+    ___BSS_START = .;
+    __START_SBSS = .;
+    *(.sbss)
+    . = ALIGN (0x4);
+    *(SCOMMON)
+    __END_SBSS = .;
+
+    __START_BSS = .;
+    *(.bss)
+    . = ALIGN (0x4);
+    *(COMMON)
+    __END_BSS = .;
+    ___BSS_END = .;
+
+    . = ALIGN(0x4);
+  } >> userram
+
+  .custom :
+  {
+    ___HEAP_START       = .;
+    ___heap_addr        = ___HEAP_START;
+    ___HEAP_END         = ___HEAP_START + ___heap_size;
+    ___SP_END             = ___HEAP_END;
+    ___SP_INIT          = ___SP_END + ___stack_size;
+    
+    ___mem_limit        = ___HEAP_END;
+    ___stack_safety     = 16;
+
+    . = ALIGN (0x4);
+  } >> userram
+  
+  __SP_INIT             = ___SP_INIT;
+
+  ___SP_AFTER_RESET     = __SP_INIT;  
+  
+	#__BDT_BASE		= ADDR(.bdtram);
+	#__BDT_END     = ADDR(.userram);
+
+  _romp_at = ___ROM_AT + SIZEOF(.data);
+  .romp : AT(_romp_at)
+  {
+    __S_romp = _romp_at;
+    WRITEW(___ROM_AT);
+    WRITEW(ADDR(.data));
+    WRITEW(SIZEOF(.data));
+    WRITEW(0);
+    WRITEW(0);
+    WRITEW(0);
+  }
+}

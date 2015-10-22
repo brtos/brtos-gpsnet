@@ -1,0 +1,27 @@
+1) Softwares necessários. Baixar e instalar.
+
+CodeWarrior 6.3
+TortoiseSVN
+
+2) Fazer checkout do projeto gpsnet usando svn ou git com usuário e senha
+
+
+3) Na pasta do projeto gpsnet, fazer checkout anônimo do projeto brtos usando svn ou git.
+
+
+4) Para software embarcado (iniciado ou terminado com "_C"), realizar a importação do projeto no Codewarrior com o arquivo *.xml
+
+Os projetos são:
+c_Coordenador: é o software do nó coordenador.
+C_Bootloader: é o software do nó programador.
+c_Roteador: é o software dos nós roteadores da rede.
+c_Router_USB: é o software dos nós roteadores da rede para uma plataforma com USB.
+GPSNET_v2: contém os arquivos comuns a todos os nós da rede (são os protocolos)
+
+5) Ajustar o arquivo "BoardConfig.h" de acordo com o hardware utilizado.
+
+6) Configurar os arquivos "NetConfig.h", "BRTOSConfig.h" e "AppConfig.h"
+
+7) Compilar o projeto 
+
+
